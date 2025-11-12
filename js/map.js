@@ -7,27 +7,44 @@ let searchQuery = "";
 let allTags = [];
 
 // Couleurs par tag
+// const tagColors = {
+//   all: "hsla(51, 65%, 40%, 1.00)",
+//   featured: "hsla(50, 85%, 40%, 1.00)",
+//   architecture: "hsla(340, 82%, 40%, 1.00)",
+//   art: "hsla(291, 64%, 40%, 1.00)",
+//   design: "hsla(262, 52%, 40%, 1.00)",
+//   divertissement: "hsla(231, 48%, 40%, 1.00)",
+//   éducation: "hsla(207, 90%, 40%, 1.00)",
+//   gastronomie: "hsla(187, 100%, 40%, 1.00)",
+//   mode: "hsla(122, 39%, 40%, 1.00)",
+//   santé: "hsla(88, 50%, 40%, 1.00)",
+//   sciences: "hsla(66, 70%, 40%, 1.00)",
+//   sport: "hsla(54, 100%, 40%, 1.00)",
+//   technologie: "hsla(36, 100%, 40%, 1.00)",
+//   transports: "hsla(16, 25%, 40%, 1.00)",
+//   voyage: "hsla(200, 18%, 40%, 1.00)",
+//   default: "hsla(215, 16%, 40%, 1.00)",
+// };
+
+
+
+// Couleurs par tag
 const tagColors = {
   all: "hsla(51, 65%, 40%, 1.00)",
   featured: "hsla(50, 85%, 40%, 1.00)",
   architecture: "hsla(340, 82%, 40%, 1.00)",
-  art: "hsla(291, 64%, 40%, 1.00)",
+  art: "hsla(122, 39%, 40%, 1.00)",
   design: "hsla(262, 52%, 40%, 1.00)",
-  divertissement: "hsla(231, 48%, 40%, 1.00)",
+  divertissement: "hsla(54, 100%, 40%, 1.00)",
   éducation: "hsla(207, 90%, 40%, 1.00)",
-  // education: "hsla(207, 90%, 40%, 1.00)",
-  gastronomie: "hsla(187, 100%, 40%, 1.00)",
-  mode: "hsla(122, 39%, 40%, 1.00)",
+  gastronomie: "hsla(200, 18%, 40%, 1.00)",
+  mode: "hsla(291, 64%, 40%, 1.00)",
   santé: "hsla(88, 50%, 40%, 1.00)",
-  // sante: "hsla(88, 50%, 40%, 1.00)",
-  sciences: "hsla(66, 70%, 40%, 1.00)",
-  sport: "hsla(54, 100%, 40%, 1.00)",
+  sciences: "hsla(187, 100%, 40%, 1.00)",
+  sport: "hsla(16, 25%, 40%, 1.00)",
   technologie: "hsla(36, 100%, 40%, 1.00)",
-  // technology: "hsla(36, 100%, 40%, 1.00)",
-  transports: "hsla(16, 25%, 40%, 1.00)",
-  // transport: "hsla(16, 25%, 40%, 1.00)",
-  voyage: "hsla(200, 18%, 40%, 1.00)",
-  // voyages: "hsla(200, 18%, 40%, 1.00)",
+  transports: "hsla(231, 48%, 40%, 1.00)",
+  voyage: "hsla(66, 70%, 40%, 1.00)",
   default: "hsla(215, 16%, 40%, 1.00)",
 };
 
