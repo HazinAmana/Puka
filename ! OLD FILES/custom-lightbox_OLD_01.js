@@ -30,51 +30,16 @@ class LightboxEnhanced {
     this.nextArea = document.getElementById("nextArea");
     this.centerArea = document.getElementById("centerArea");
 
-    // Vérifier la méthode de chargement des images
-    const imagesList = this.gallery.getAttribute("data-lightbox-images");
+    // Charger les images depuis le dossier spécifié
     const imageFolder = this.gallery.getAttribute("data-lightbox-folder");
-
-    if (imagesList) {
-      // Méthode 1 : Liste d'images fournie directement
-      this.loadImagesFromList(imagesList);
-    } else if (imageFolder) {
-      // Méthode 2 : Scanner le dossier (nécessite un serveur avec listing)
+    if (imageFolder) {
       this.loadImagesFromFolder(imageFolder);
     } else {
-      console.error(
-        "Lightbox: Attribut data-lightbox-images ou data-lightbox-folder manquant"
-      );
+      console.error("Lightbox: Attribut data-lightbox-folder manquant");
     }
 
     // Initialiser les événements
     this.initEvents();
-  }
-
-  loadImagesFromList(imagesList) {
-    try {
-      const imagePaths = JSON.parse(imagesList);
-
-      this.images = imagePaths.map((path) => {
-        const filename = this.getFilenameWithoutExtension(path);
-        return {
-          src: path,
-          title: filename,
-        };
-      });
-
-      if (this.images.length > 0) {
-        console.log("Total images chargées:", this.images.length);
-        this.createGallery();
-      } else {
-        this.showMessage("Aucune image dans la liste");
-      }
-    } catch (error) {
-      console.error(
-        "Lightbox: Erreur lors du parsing de la liste d'images",
-        error
-      );
-      this.showMessage("Erreur lors du chargement de la liste d'images");
-    }
   }
 
   async loadImagesFromFolder(folderPath) {

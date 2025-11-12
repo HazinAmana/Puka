@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Lightbox Enhanced - Galerie d'images</title>
+  <link rel="stylesheet" href="custom-lightbox.css" />
+</head>
+
+<body>
+  <div class="container">
+    <h1>Lightbox Enhanced - Galerie</h1>
+
+    <!-- GALERIE : Deux méthodes possibles -->
+
+    <!-- MÉTHODE 1 : Liste manuelle générée par script generate-image-list.js (compatible GitHub Pages) -->
+    <div class="gallery" data-lightbox-images='[
+              "images/custom-lightbox/custom_001.webp",
+              "images/custom-lightbox/custom_002.webp",
+              "images/custom-lightbox/custom_003.webp",
+              "images/custom-lightbox/custom_004.webp",
+              "images/custom-lightbox/custom_005.webp",
+              "images/custom-lightbox/custom_006.webp",
+              "images/custom-lightbox/custom_007.webp",
+              "images/custom-lightbox/custom_008.webp",
+              "images/custom-lightbox/custom_009.webp"
+            ]'></div>
+
+    <!-- MÉTHODE 2 : Scan automatique (fonctionne uniquement avec Live Server) -->
+    <!-- Décommenter la ligne ci-dessous et Modifier le chemin data-lightbox-folder -->
+    <!-- <div class="gallery" data-lightbox-folder="images/dossier_images_01"></div> -->
+
+
+    <!-- Structure de la lightbox (générée automatiquement par le script) -->
+    <div class="lightbox" id="lightbox">
+      <button class="lightbox-close" id="closeBtn" aria-label="Fermer"></button>
+
+      <!-- Zones de navigation cliquables -->
+      <div class="lightbox-nav-area prev-area" id="prevArea"></div>
+      <div class="lightbox-nav-area next-area" id="nextArea"></div>
+      <div class="lightbox-center-area" id="centerArea"></div>
+
+      <!-- Boutons de navigation visibles -->
+      <button class="lightbox-nav prev" id="prevBtn" aria-label="Image précédente"></button>
+      <button class="lightbox-nav next" id="nextBtn" aria-label="Image suivante"></button>
+
+      <div class="lightbox-content" id="lightboxContent">
+        <div class="lightbox-image-wrapper">
+          <img class="lightbox-image" id="lightboxImage" src="" alt="">
+        </div>
+      </div>
+      <div class="lightbox-caption">
+        <div class="lightbox-title" id="lightboxTitle"></div>
+        <div class="lightbox-counter" id="lightboxCounter"></div>
+      </div>
+    </div>
+
+    <script src="custom-lightbox.js">
+    </script>
+</body>
+
+</html>
