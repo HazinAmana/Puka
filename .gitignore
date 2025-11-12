@@ -1,4 +1,5 @@
 OLD FILES/
 documents/
+.gitignore
 generate-image-list.js
 node generate-image-list.js
