@@ -4,17 +4,15 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Featured Projects</title>
+  <title>Books</title>
   <link rel="icon" type="image/x-icon" href="../favicon.ico" />
-  <link rel="stylesheet" href="css/hamburger.css">
-  <!-- <link rel="stylesheet" href="css/styles_PORTFOLIO.css" /> -->
-  <link rel="stylesheet" href="css/projects.css" />
-  <link rel="stylesheet" href="css/styles.css" />
+  <link rel="stylesheet" href="../folio/css/styles.css" />
+  <link rel="stylesheet" href="../folio/css/hamburger.css">
+  <!-- <link rel="stylesheet" href="css/normalize.css" /> -->
+  <link rel="stylesheet" href="css/links.css" />
 </head>
 
 <body>
-
-
   <!-- HEADER AVEC NAVIGATION -->
   <header class="header">
     <div class="header-container">
@@ -24,16 +22,16 @@
       <!-- Navigation desktop -->
       <nav class="nav-desktop" aria-label="Navigation principale">
         <ul>
-          <li><a class="border-reveal" href="../index.html">Accueil</a></li>
-          <li><a class="active border-reveal" href="featured.html">Portfolio&nbsp;<span class="deroulant">▼</span></a>
+          <li><a class="border-reveal" aria-current="page" href="../index.html">Accueil</a></li>
+          <li><a class="border-reveal" href="../folio/featured.html">Portfolio&nbsp;<span class="deroulant">▼</span></a>
             <ul class="submenu">
-              <li><a href="projects.html">Tous les Projets</a></li>
-              <li><a href="liste.html">Liste des Projets</a></li>
-              <li><a href="map.html">Carte des Projets</a></li>
+              <li><a href="../folio/projects.html">Tous les Projets</a></li>
+              <li><a href="../folio/liste.html">Liste des Projets</a></li>
+              <li><a href="../folio/map.html">Carte des Projets</a></li>
             </ul>
           </li>
-          <li><a class="border-reveal" href="../books/booksIndex.html">Livres</a></li>
-          <!-- <li><a class="border-reveal" href="map.html">Carte des Projets</a></li> -->
+          <li><a class="active border-reveal" href="booksIndex.html">Livres</a></li>
+          <!-- <li><a class="border-reveal" href="folio/map.html">Carte des Projets</a></li> -->
         </ul>
       </nav>
 
@@ -45,6 +43,8 @@
           <span class="hamburger-line"></span>
         </div>
       </button>
+
+      <!-- Bouton ToggleClassic -->
       <button class="theme-toggle" type="button" title="Toggle theme" aria-label="Toggle theme">
         <span class="theme-toggle-sr">Toggle theme</span>
         <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" width="2em" height="2em" fill="var(--accent-color)" stroke-linecap="round" class="theme-toggle__classic" viewBox="0 0 32 32">
@@ -72,16 +72,16 @@
   <!-- MENU MOBILE -->
   <nav class="nav-mobile" id="mobile-nav" aria-label="Menu de navigation mobile" role="dialog" aria-labelledby="hamburger-btn">
     <ul>
-      <li><a href="../index.html">Accueil</a></li>
-      <li><a class="active" aria-current="page" href="featured.html">Portfolio &ensp;</a>
+      <li><a aria-current="page" href="../index.html">Accueil</a></li>
+      <li><a href="../folio/featured.html">Portfolio &ensp;</a>
         <ul class="submenu">
-          <li><a href="projects.html">Tous les Projets</a></li>
-          <li><a href="liste.html">Liste des Projets</a></li>
-          <li><a href="map.html">Carte des Projets</a></li>
+          <li><a href="../folio/projects.html">Tous les Projets</a></li>
+          <li><a href="../folio/liste.html">Liste des Projets</a></li>
+          <li><a href="../folio/map.html">Carte des Projets</a></li>
         </ul>
       </li>
-      <li><a href="../books/booksIndex.html">Livres</a></li>
-      <!-- <li><a href="map.html">Carte des Projets</a></li> -->
+      <li><a class="active" href="booksIndex.html">Livres</a></li>
+      <!-- <li><a href="folio/map.html">Carte des Projets</a></li> -->
     </ul>
   </nav>
 
@@ -90,33 +90,25 @@
 
   <main>
 
-    <section class="hero">
-      <h1>Bienvenue sur mon portfolio</h1>
-
+    <h1 class="titre">Envie de lecture ?</h1>
+    <div class="container">
+      <div>
+        <img class="photoCentrale" src="illustrations/Books.jpg" alt="zut" />
       </div>
-      <p class="subtitle">Découvrez quelques uns de mes projets</p>
-    </section>
-
-    <section class="featured-projects">
-      <h2 class="text-center">Projets mis en avant</h2>
-
-
-      <div id="projects-grid" class="grid"></div>
-
-
-
-    </section>
-
-
+      <div class="liens">
+        <a href="html/booksGallery.html" class="btn btn2">Sélection</a>
+        <a href="html/booksGallery.html" class="btn btn2">Prochainement…</a>
+        <a href="html/booksGallery.html" class="btn btn2">Prochainement…</a>
+        <a href="html/booksGallery.html" class="btn btn2">Prochainement…</a>
+        <a href="html/booksGallery.html" class="btn btn2">Prochainement…</a>
+      </div>
+    </div>
   </main>
 
-
-
   <social-footer></social-footer>
-  <script src="js/social-footer.js"></script>
-  <script src="js/themeToggleClassic.js"></script>
-  <script src="js/hamburger.js"></script>
-  <script src="js/featured.js"></script>
+  <script src="../folio/js/social-footer.js"></script>
+  <!-- <script src="../folio/js/themeToggleClassic.js"></script> -->
+  <script src="../folio/js/hamburger.js"></script>
 
 </body>
 

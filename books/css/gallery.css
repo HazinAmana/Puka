@@ -1,0 +1,242 @@
+body {
+  background-image: url("../illustrations/body-bg-image.png");
+  background-attachment: fixed;
+  background-repeat: repeat;
+  min-height: 100vh;
+}
+
+.title-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 1rem auto;
+  justify-content: space-around;
+  align-items: center;
+  gap: 1rem;
+}
+
+h1.titre {
+  font-size: clamp(1.9rem, 0.8333rem + 5.3333vw, 3rem);
+  color: rgba(255, 255, 255, 0.9);
+  text-shadow: 1px 1px 2px black;
+}
+
+a.home {
+  text-decoration: none;
+  /* font-size: 1rem; */
+  font-size: clamp(1rem, 0.7576rem + 1.2121vw, 1.25rem);
+  color: rgba(255, 255, 255, 0.8);
+  text-shadow: 1px 1px 2px black;
+}
+
+.animated-underline {
+  position: relative;
+}
+
+.animated-underline::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  height: 2px;
+  width: 100%;
+  background-color: rgba(255, 255, 255, 0.8);
+  transform: scaleX(0);
+  transform-origin: center;
+  transition: transform 0.25s linear;
+}
+
+.animated-underline:hover::after {
+  transform: scaleX(1);
+}
+
+/* --------------------------------------- */
+
+.theme-toggle {
+  visibility: hidden;
+}
+
+/* --------------------------------------- */
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.cards_item {
+  display: flex;
+  padding: 1rem;
+}
+
+.card_books {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  position: relative;
+  cursor: pointer;
+  border: 1px solid #c89b3f;
+  border-radius: 0.25rem;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+  transition: transform 0.4s ease-out;
+}
+
+.profile-img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.image__overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  color: #f1f1f1;
+  font-family: sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  opacity: 0;
+  transition: opacity 0.25s;
+}
+
+.image__overlay--blur {
+  backdrop-filter: blur(5px);
+}
+
+.image__overlay > * {
+  transform: translateY(20px);
+  transition: transform 0.25s;
+}
+
+.image__overlay:hover {
+  opacity: 1;
+}
+
+.image__overlay:hover > * {
+  transform: translateY(0);
+}
+
+.content {
+  max-height: 100%;
+  margin: 0;
+  overflow-y: auto;
+  padding: 2rem 1.5rem;
+  /* Works on Firefox */
+  scrollbar-width: thin;
+  /* "auto" or "thin" */
+  scrollbar-color: #c89b3f #c89a3f00;
+  /* scroll thumb and track */
+}
+
+/* Works on Chrome, Edge, and Safari */
+.content::-webkit-scrollbar {
+  width: 8px;
+}
+
+.content::-webkit-scrollbar-track {
+  box-shadow: 0;
+  border-radius: 0;
+}
+
+.content::-webkit-scrollbar-thumb {
+  background: #c89b3f;
+  border-radius: 15px;
+}
+
+.details li {
+  padding: 0 0 1.5rem 0;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+}
+
+.auteur {
+  font-size: 1.6rem;
+  letter-spacing: 0.05rem;
+  padding-bottom: 3px;
+}
+
+.titre {
+  font-weight: bold;
+  font-size: 1.2rem;
+  letter-spacing: 0.02rem;
+}
+
+.catégorie {
+  font-style: italic;
+  font-size: 1rem;
+  letter-spacing: 0.1rem;
+}
+
+.date {
+  font-size: 0.8rem;
+  letter-spacing: 0.05rem;
+  padding-bottom: 2rem;
+  /* border-bottom: 1px solid #c89b3f; */
+  border-bottom: 1px solid hsla(40, 56%, 52%, 1.00);
+}
+
+.image__description {
+  font-size: 1em;
+  margin-top: 2rem;
+}
+.content p {
+  color: #f1f1f1ff;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+@media (min-width: 40rem) {
+  a.home {
+    font-size: clamp(1rem, 0.8083rem + 0.4711vw, 1.25rem);
+  }
+  .cards_item {
+    width: 50%;
+  }
+}
+
+@media (min-width: 56rem) {
+  .cards_item {
+    width: 33.3333%;
+  }
+}
+
+/* ******* Progress Smooth Back to Top Button ******* */
+
+#progress {
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  height: 50px;
+  width: 50px;
+  display: none;
+  place-items: center;
+  border-radius: 50%;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  z-index: 1;
+}
+
+#progress-value {
+  display: block;
+  height: calc(100% - 15px);
+  width: calc(100% - 15px);
+  background-color: #f1f1f1;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  font-size: 28px;
+  color: #5c523cff;
+}
+
+/* ******* END of Progress Smooth Back to Top Button ******* */

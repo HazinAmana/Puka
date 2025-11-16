@@ -1,0 +1,371 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Books</title>
+  <link rel="icon" type="image/x-icon" href="../../favicon.ico" />
+  <link rel="stylesheet" href="../../folio/css/styles.css" />
+  <link rel="stylesheet" href="../../folio/css/hamburger.css">
+  <link rel="stylesheet" href="../css/gallery.css" />
+</head>
+
+<body class="books">
+  <!-- HEADER AVEC NAVIGATION -->
+  <header class="header">
+    <div class="header-container">
+      <!-- Logo/Brand -->
+      <a href="../../index.html" class="logo">PukaWakemi</a>
+
+      <!-- Navigation desktop -->
+      <nav class="nav-desktop" aria-label="Navigation principale">
+        <ul>
+          <li><a class="border-reveal" aria-current="page" href="../../index.html">Accueil</a></li>
+          <li><a class="border-reveal" href="../../folio/featured.html">Portfolio&nbsp;<span class="deroulant">▼</span></a>
+            <ul class="submenu">
+              <li><a href="../../folio/projects.html">Tous les Projets</a></li>
+              <li><a href="../../folio/liste.html">Liste des Projets</a></li>
+              <li><a href="../../folio/map.html">Carte des Projets</a></li>
+            </ul>
+          </li>
+          <li><a class="active border-reveal" href="../booksIndex.html">Livres</a></li>
+          <!-- <li><a class="border-reveal" href="folio/autrePage.html">Autre Page</a></li> -->
+        </ul>
+      </nav>
+
+      <!-- Bouton hamburger pour mobile -->
+      <button class="hamburger-btn" id="hamburger-btn" aria-label="Ouvrir le menu de navigation" aria-expanded="false" aria-haspopup="true" aria-controls="mobile-nav">
+        <div class="hamburger-lines">
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+          <span class="hamburger-line"></span>
+        </div>
+      </button>
+
+      <!-- Bouton ToggleClassic -->
+      <button class="theme-toggle" type="button" title="Toggle theme" aria-label="Toggle theme">
+        <span class="theme-toggle-sr">Toggle theme</span>
+        <svg xmlns="http://www.w3.org/2000/svg" aria-hidden="true" width="2em" height="2em" fill="var(--accent-color)" stroke-linecap="round" class="theme-toggle__classic" viewBox="0 0 32 32">
+          <clipPath id="theme-toggle__classic__cutout">
+            <path d="M0-5h30a1 1 0 0 0 9 13v24H0Z" />
+          </clipPath>
+          <g clip-path="url(#theme-toggle__classic__cutout)">
+            <circle cx="16" cy="16" r="9.34" />
+            <g stroke="var(--accent-color)" stroke-width="1.5">
+              <path d="M16 5.5v-4" />
+              <path d="M16 30.5v-4" />
+              <path d="M1.5 16h4" />
+              <path d="M26.5 16h4" />
+              <path d="m23.4 8.6 2.8-2.8" />
+              <path d="m5.7 26.3 2.9-2.9" />
+              <path d="m5.8 5.8 2.8 2.8" />
+              <path d="m23.4 23.4 2.9 2.9" />
+            </g>
+          </g>
+        </svg>
+      </button>
+    </div>
+  </header>
+
+  <!-- MENU MOBILE -->
+  <nav class="nav-mobile" id="mobile-nav" aria-label="Menu de navigation mobile" role="dialog" aria-labelledby="hamburger-btn">
+    <ul>
+      <li><a aria-current="page" href="../index.html">Accueil</a></li>
+      <li><a href="../../folio/featured.html">Portfolio &ensp;</a>
+        <ul class="submenu">
+          <li><a href="../../folio/projects.html">Tous les Projets</a></li>
+          <li><a href="../../folio/liste.html">Liste des Projets</a></li>
+          <li><a href="../../folio/map.html">Carte des Projets</a></li>
+        </ul>
+      </li>
+      <li><a class="active" href="../booksIndex.html">Livres</a></li>
+      <!-- <li><a href="folio/map.html">Carte des Projets</a></li> -->
+    </ul>
+  </nav>
+
+  <!-- Overlay pour fermer le menu -->
+  <div class="nav-overlay" id="nav-overlay"></div>
+
+
+  <main>
+
+    <div class="title-container">
+      <h1 class="titre">Sélection</h1>
+      <a href="../booksIndex.html" class="home animated-underline">Accueil</a>
+    </div>
+
+    <div id="progress">
+      <span id="progress-value">↑</span>
+    </div>
+
+
+
+    <div class="main">
+
+      <ul class="cards">
+
+        <li class="cards_item">
+
+          <div class="card_books">
+
+            <img src="..\images\L'amour propre_2023-06-26.jpg" class="profile-img">
+            <div class="image__overlay image__overlay--blur">
+              <div class="content">
+                <div class="image__title">
+                  <div class="details">
+                    <ul>
+                      <li class="auteur">AUROY, Olivier</li>
+                      <li class="titre">L'amour propre</li>
+                      <li class="catégorie">Thriller</li>
+                      <li class="date">2018</li>
+                    </ul>
+                  </div>
+                </div>
+                <p class="image__description">Au salon de massage de luxe de M.&#160;Victor, rue de Courcelles, entre les
+                  mains habiles de Waan, les hommes s’abandonnent. Depuis qu’elle est devenue orpheline, Waan est
+                  reconnaissante envers M.&#160;Victor, un ancien associé de son père, de lui avoir évité la fin tragique de
+                  la plupart des filles de sa condition en Thaïlande. Mais toute protection a un prix, que M.&#160;Victor
+                  n’oublie pas de réclamer entre deux symphonies.<br />Et si l’écrin somptueux dans lequel elle pratique
+                  aujourd’hui n’a rien à voir avec les arrière-cours miséreuses de Chiang Rai, depuis quelques semaines Waan
+                  ressent une inquiétude diffuse. Waan rêve alors de tout changer. Ne plus masser le corps des hommes. Mais
+                  a-t-on toujours le choix&#160;? L’Amour propre est un thriller osé, palpitant et implacable dans l’univers
+                  clos et énigmatique des salons de massage.<br />C’est aussi une réflexion sans concession sur le rouage
+                  cruel et douloureux que peut constituer le désir des hommes et un plaidoyer radical pour le respect de celui
+                  des femmes.</p>
+              </div>
+            </div>
+          </div>
+        </li>
+
+
+
+        <li class="cards_item">
+
+          <div class="card_books">
+
+
+            <img src="..\images\La chute de la maison Whyte_2023-06-26.jpg" class="profile-img">
+            <div class="image__overlay image__overlay--blur">
+              <div class="content">
+                <div class="image__title">
+                  <div class="details">
+                    <ul>
+                      <li class="auteur">AUTET, Katerina</li>
+                      <li class="titre">La chute de la maison Whyte</li>
+                      <li class="catégorie">Policier</li>
+                      <li class="date">2020</li>
+                    </ul>
+                  </div>
+                </div>
+                <p class="image__description">Les secrets de famille tuent plus sûrement qu’une arme.<br />Cape Cod, ses
+                  belles villas aux bardages de bois, ses millionnaires discrets qui par-dessus tout ont peur du scandale…
+                  Mais, justement, le scandale fait vendre. Bien qu’elle s’en défende, c’est ce qu’Edith Whyte a en tête
+                  lorsqu’elle publie un livre accusant son célèbre père, grand patron des arts, de crimes inimaginables. Père
+                  et fille n’ont pas le temps de s’expliquer&#160;: William Whyte est retrouvé assassiné et le frère d’Edith
+                  est accusé du meurtre. Tandis que la famille se déchire, la bonne société bruit des rumeurs les plus
+                  folles…<br />Un premier thriller élu parmi 150&#160;manuscrits anonymes. 12&#160;jurés qui représentent
+                  chacun un maillon essentiel de toute investigation judiciaire. Un prix littéraire pour le genre le plus
+                  populaire de France.</p>
+                <p></p>
+                <p><b>Grand Prix des Enquêteurs 2020</b>.</p>
+                <p></p>
+                <p>Née en Russie, Katerina Autet a passé son adolescence aux États-Unis. Elle a choisi de venir en France il y
+                  a vingt ans dans le cadre d’un échange universitaire, et n’en est jamais repartie. Katerina a étudié la
+                  linguistique, l’histoire et l’économie. Mère de trois enfants, elle habite à Paris et travaille pour une
+                  grande entreprise française.</p>
+                <p></p>
+                <p></p>
+                <p><em>Le Grand Prix des enquêteurs, cocréé par les Éditions Robert Laffont et </em>Le&#160;Figaro
+                  Magazine<em>, permet de donner à un premier roman policier ses lettres de noblesse en étant publié dans la
+                    collection &#171;&#160;La Bête noire&#160;&#187;. Pour obtenir ce prix bien particulier, le livre fait
+                    l’objet d’une autopsie bien particulière. Il est placé sous la loupe de douze jurés faisant chacun partie
+                    de la sphère judiciaire&#160;: un chef d’état-major de la Brigade criminelle, un avocat pénaliste au
+                    barreau de Paris, un commandant de police, une directrice honoraire du laboratoire de police scientifique
+                    de Paris. Sans oublier son président d’honneur et cinéaste, Olivier Marchal, son membre d’honneur Guy
+                    Savoy ainsi que Didier Decoin, de l’académie Goncourt.</em></p>
+              </div>
+            </div>
+
+
+          </div>
+        </li>
+
+
+
+        <li class="cards_item">
+
+          <div class="card_books">
+
+            <img src="..\images\Helena ou la mer en été_2023-06-26.jpg" class="profile-img">
+            <div class="image__overlay image__overlay--blur">
+              <div class="content">
+                <div class="image__title">
+                  <div class="details">
+                    <ul>
+                      <li class="auteur">AYESTA, Julian</li>
+                      <li class="titre">Helena ou la mer en été</li>
+                      <li class="catégorie">Roman</li>
+                      <li class="date">2000</li>
+                    </ul>
+                  </div>
+                </div>
+                <p class="image__description">Se tournant vers son enfance, un homme voit renaître une Espagne révolue où les
+                  rues sentaient la mer, où l’insouciance s’alliait aux mystères du désir naissant, à l’orée des rites
+                  initiatiques immémoriaux, dans les suavités d’une vie peuplée de personnages truculents, les tantes
+                  jacasseuses, les oncles buveurs de cidre, les cousins de Madrid, et les cousines aussi, qui sont des sottes,
+                  sauf Helena. Helena, douce et chaude respiration du soleil, mélancolie d’un monde perdu.</p>
+                <p></p>
+                <p>&laquo;&nbsp;Un des plus beaux livres de la littérature espagnole d’après-guerre.&nbsp;&raquo; &ndash;
+                  <em>La Vanguardia</em>.
+                </p>
+                <p></p>
+                <p>&laquo;&nbsp;Un excellent roman, d’une fraîcheur inaltérable, écrit dans une prose magistrale.&nbsp;&raquo;
+                  &ndash; <em>El Paìs</em>.</p>
+                <p></p>
+                <p>&laquo;&nbsp;Tous les parfums et les sensations parallèles de l’enfance, mais aussi les vapeurs de
+                  l’éternel féminin, sont déposés avec grâce et humour dans ce roman.&nbsp;&raquo; &ndash;
+                  <em>Libération</em>.
+                </p>
+              </div>
+            </div>
+
+          </div>
+        </li>
+
+
+
+        <li class="cards_item">
+
+          <div class="card_books">
+            <img src="..\images\Roches de sang_2023-06-26.jpg" class="profile-img">
+            <div class="image__overlay image__overlay--blur">
+              <div class="content">
+                <div class="image__title">
+                  <div class="details">
+                    <ul>
+                      <li class="auteur">BAL, Olivier</li>
+                      <li class="titre">Roches de sang</li>
+                      <li class="catégorie">Policier</li>
+                      <li class="date">2023</li>
+                    </ul>
+                  </div>
+                </div>
+                <p class="image__description">Et si les victimes étaient en réalité les coupables&#160;?<br />Un milliardaire
+                  serbe égorgé à Londres. Sur la baie vitrée, ces lettres de sang&#160;: <em>Chè la mia ferita sia
+                    murtale</em>. <em>Que ma blessure soit mortelle…</em><br />Pour Marie Jansen, l’inspectrice d’Europol, la
+                  sentence sonne comme l’écho lointain d’un passé et d’une terre qu’elle pensait définitivement oubliés. Son
+                  enquête la plonge soudain deux décennies plus tôt. En Corse. Au temps des braquages en mer. Ce jour-là, Ange
+                  et Théo, les frères du gang des Roches rouges, fouillent les cales du yacht qu’ils ont pris d’assaut. Et
+                  découvrent, sidérés, ce qu’ils n’auraient jamais dû voir…<br />Des hauts plateaux corses aux rues sombres de
+                  Belgrade, des montagnes suisses à l’île de Lesbos, l’histoire d’un face à face terrifiant à travers
+                  l’Europe. Et d’un incroyable chemin de rédemption.</p>
+                <p></p>
+                <p>Olivier Bal, né en 1979 à Paris, est un écrivain français, auteur de romans policiers et de thrillers.
+                  Titulaire d’une maîtrise Arts du spectacle – cinéma et audiovisuel à l’Université Paris&#160;3, en 2004,
+                  Olivier Bal a été journaliste pendant une quinzaine d’années. Après avoir travaillé dans différents titres
+                  de la presse généraliste et culturelle, et fréquemment voyagé pour ses reportages, il a animé un événement
+                  culturel emblématique&#160;: les Masterclass à la Cité des sciences et de l’industrie de Paris. Il a été
+                  rédacteur en chef de <em>Jeux vidéo Magazine</em>, magazine leader dans le domaine du jeu vidéo jusqu’en
+                  février 2017. Olivier Bal se consacre pleinement à l’écriture. <em>Les Limbes</em>, un thriller fantastique,
+                  est son premier roman. Best-seller de l’autoédition, <em>Les Limbes</em> a d’abord conquis des dizaines de
+                  milliers de lecteurs avant d’être édité en mars 2018 par la maison d’édition De Saxus. <em>Les Limbes</em> a
+                  reçu le <b>Prix Méditerranée Polar 2018 du Premier Roman</b> et le <b>Prix Découverte 2018 des Géants du
+                    polar</b>.</p>
+              </div>
+            </div>
+          </div>
+        </li>
+
+
+
+        <li class="cards_item">
+
+          <div class="card_books">
+            <img src="..\images\Hollywood s'en va en guerre_2023-06-26.jpg" class="profile-img">
+            <div class="image__overlay image__overlay--blur">
+              <div class="content">
+                <div class="image__title">
+                  <div class="details">
+                    <ul>
+                      <li class="auteur">BARDE-CABUÇON, Olivier</li>
+                      <li class="titre">Hollywood s'en va en guerre</li>
+                      <li class="catégorie">Policier</li>
+                      <li class="date">2023</li>
+                    </ul>
+                  </div>
+                </div>
+                <p class="image__description">Septembre 1941. Aux États-Unis, le mouvement isolationniste et antisémite
+                  America First gagne du terrain et le président Roosevelt n’arrive pas à faire basculer son pays dans la
+                  guerre. À Hollywood, on prépare la contre-attaque avec un film engagé en faveur de l’intervention, mais sa
+                  vedette, la star Lala, est victime d’un chantage qui pourrait tout compromettre. Vicky Mallone, détective
+                  privée, légèrement portée sur les cocktails et les femmes, va voler à son secours avec l’aide d’un vieux
+                  fédéral bougon et, lorsqu’il est sobre, d’Errol Flynn en personne. Le tournage du film va bientôt concentrer
+                  toutes les menaces et tous les enjeux de l’époque. Mais qui manipule qui à l’ombre des
+                  plateaux&#160;?<br />Un hommage au polar selon Chandler et au cinéma en noir et blanc dans un contexte
+                  politique étonnamment contemporain.</p>
+                <p></p>
+                <p>Olivier Barde-Cabuçon est un écrivain français, auteur de plusieurs romans policiers historiques.</p>
+              </div>
+            </div>
+          </div>
+        </li>
+
+
+
+
+        <li class="cards_item">
+
+          <div class="card_books">
+            <img src="..\images\L'homme provisoire_2023-06-26.jpg" class="profile-img">
+            <div class="image__overlay image__overlay--blur">
+              <div class="content">
+                <div class="image__title">
+                  <div class="details">
+                    <ul>
+                      <li class="auteur">BARRY, Sebastian</li>
+                      <li class="titre">L'homme provisoire</li>
+                      <li class="catégorie">Roman</li>
+                      <li class="date">2014</li>
+                    </ul>
+                  </div>
+                </div>
+                <p class="image__description">L’Irlandais Jack McNulty est un homme provisoire, tout comme l’ont été ses
+                  missions avec l’armée britannique durant la Seconde Guerre mondiale. En 1957, installé à Accra, en proie à
+                  l’angoisse et au ressassement, il décide de rédiger l’histoire de sa vie.<br />Homme ordinaire, aussi
+                  héroïque qu’insignifiant, Jack a été le témoin de choses extraordinaires. Il a travaillé et erré à travers
+                  le monde, tour à tour soldat, ingénieur, observateur de l’ONU. Son mariage avec Mai, la plus jolie fille de
+                  Sligo, est à la fois étrange et tumultueux, mais comme tout le reste, il finira par lui glisser entre les
+                  doigts…</p>
+                <p></p>
+                <p>Sebastian Barry, écrivain et dramaturge, est né à Dublin en 1955. Il est considéré comme l’un des écrivains
+                  irlandais les plus doués de sa génération. Ses romans <em>Annie Dunne</em> (2005), <em>Un long long
+                    chemin</em> (2006), <em>Le testament caché</em> (2009), qui a obtenu le Costa Book of the Year, et <em>Du
+                    côté de Canaan</em> (2012) sont traduits aux Éditions Joëlle Losfeld. Remarqués en France tant par la
+                  presse que par les lecteurs, les livres de Sebastian Barry ont plusieurs fois fait partie de la dernière
+                  sélection du prix Femina étranger et du Grand Prix des lectrices de <em>Elle</em>.</p>
+              </div>
+            </div>
+          </div>
+        </li>
+
+
+      </ul>
+    </div>
+
+
+
+    <script src="../js/script.js"></script>
+
+  </main>
+
+
+
+
+  <social-footer></social-footer>
+  <script src="../../folio/js/social-footer.js"></script>
+  <script src="../../folio/js/hamburger.js"></script>
+
+</body>
+
+</html>
