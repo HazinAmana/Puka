@@ -178,7 +178,7 @@
   BANDES DE NAVIGATION
   =============================================== */
 
-.carousel-nav-band {
+/* .carousel-nav-band {
   position: absolute;
   top: 0;
   height: calc(100%);
@@ -224,7 +224,7 @@
 .carousel-nav-band.disabled {
   opacity: 0 !important;
   pointer-events: none;
-}
+} */
 
 /* ===============================================
   INDICATEUR NUMÉRIQUE DE PAGE (X/Y)
