@@ -107,10 +107,12 @@
 
 .text-block-content h3 {
   /* 💡 MODIFIABLE */
-  margin: 0 0 var(--spacing-md) 0;
+  margin: 1rem 0 var(--spacing-md) 0;
   color: var(--color-text-primary);
   font-size: var(--font-size-lg);
   font-weight: var(--font-weight-medium);
+  padding-bottom:1rem;
+  border-bottom: 1px solid var(--color-gold);
 }
 
 
@@ -133,9 +135,9 @@
   color: var(--color-text-primary);
 }
 
-.text-block-description p:last-child {
+/* .text-block-description p:last-child {
   margin-bottom: 0;
-}
+} */
 
 .text-block-description em {
   font-style: italic;

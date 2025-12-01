@@ -22,7 +22,7 @@
       {
         "Nom": "Ashley Ellis",
         "Description": [
-          "<p>Principal dancer, Boston Ballet</p><p>\"Being a dancer is a such a rewarding profession, but it does not come without a lot of hard work. So f you really love it, then go for it. Try to take inspiration from all around you and never stop learning and growing. Being a dancer is not just about the physical accomplishments, but about what you can share with the audiences.\"</p>"
+          "<p><em>Principal dancer, Boston Ballet</em></p><p>\"Being a dancer is a such a rewarding profession, but it does not come without a lot of hard work. So f you really love it, then go for it. Try to take inspiration from all around you and never stop learning and growing. Being a dancer is not just about the physical accomplishments, but about what you can share with the audiences.\"</p>"
         ],
         "Images": [
           "Ashley_Ellis_01.webp",
@@ -34,7 +34,7 @@
       {
         "Nom": "Cassandra Trenary",
         "Description": [
-          "<p>\"My family didn't have a background in dance, but somehow they supported and trusted the 12 year old me 100 percent of the way when I decided to put dance first in my life.\" - Cassandra Trenary, Soloist, American Ballet Theatre</p>"
+          "<p>\"My family didn't have a background in dance, but somehow they supported and trusted the 12 year old me 100 percent of the way when I decided to put dance first in my life.\" - <em>Cassandra Trenary, Soloist, American Ballet Theatre</em></p>"
         ],
         "Images": [
           "Cassandra_Trenary_01.webp",
@@ -46,14 +46,14 @@
       {
         "Nom": "Celine Cassone",
         "Description": [
-          "<p>\"Give it all or don't do it\" - Celine Cassone, Les Ballets Jazz de Montreal</p>"
+          "<p>\"Give it all or don't do it\" - <em>Celine Cassone, Les Ballets Jazz de Montreal</em></p>"
         ],
         "Images": ["Celine_Cassone_01.webp"]
       },
       {
         "Nom": "Charlotte Landreau",
         "Description": [
-          "<p>Soloist, Martha Graham Dance Company</p><p>\"When you go on stage, you're giving emotions to the world, you can express your inner world, become a goddess, die and then kill, transform yourself over and over again. I would say don't be afraid to throw your soul to your audience, if you want to become a dancer.\"</p>"
+          "<p><em>Soloist, Martha Graham Dance Company</em></p><p>\"When you go on stage, you're giving emotions to the world, you can express your inner world, become a goddess, die and then kill, transform yourself over and over again. I would say don't be afraid to throw your soul to your audience, if you want to become a dancer.\"</p>"
         ],
         "Images": [
           "Charlotte_Landreau_01.webp",
@@ -458,7 +458,7 @@
       {
         "Nom": "Michael Trusnovec",
         "Description": [
-          "<p>Paul Taylor Dance Company</p><p>\"If I could have a coffee with anyone (dead or alive), it would be Fred Astaire, as he was such an influence on the way I live. His life, and the era he was alive and working, are fascinating to me.\"</p>"
+          "<p><em>Paul Taylor Dance Company</em></p><p>\"If I could have a coffee with anyone (dead or alive), it would be Fred Astaire, as he was such an influence on the way I live. His life, and the era he was alive and working, are fascinating to me.\"</p>"
         ],
         "Images": [
           "Michael_Trusnovec_01.webp",

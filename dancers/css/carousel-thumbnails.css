@@ -49,9 +49,8 @@
   scroll-snap-type: x mandatory;
   scroll-behavior: smooth;
 
-  /* scrollbar-width: thin; */
   scrollbar-width: auto;
-  scrollbar-color: var(--color-gold) var(--color-bg-tertiary);
+  scrollbar-color: var(--color-gold) var(--color-gold-dark);
 }
 
 .carousel-thumbnails-container::-webkit-scrollbar {
@@ -173,58 +172,6 @@
 .thumbnail-item:hover .thumbnail-overlay {
   bottom: 0;
 }
-
-/* ===============================================
-  BANDES DE NAVIGATION
-  =============================================== */
-
-/* .carousel-nav-band {
-  position: absolute;
-  top: 0;
-  height: calc(100%);
-  width: 60px;
-  background-color: var(--color-overlay-light);
-  backdrop-filter: blur(2px);
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  color: var(--color-gold);
-  font-size: var(--font-size-3xl);
-  font-weight: var(--font-weight-bold);
-  cursor: pointer;
-  user-select: none;
-  opacity: 0;
-  transition: opacity var(--transition-normal) var(--timing-ease),
-    background-color var(--transition-normal) var(--timing-ease);
-  z-index: 10000;
-  pointer-events: auto;
-}
-
-.carousel-nav-band > * {
-  pointer-events: none;
-}
-
-.carousel-nav-prev {
-  left: 0;
-}
-
-.carousel-nav-next {
-  right: 0;
-}
-
-.carousel-thumbnails:hover .carousel-nav-band {
-  opacity: 0.7;
-}
-
-.carousel-nav-band:hover {
-  opacity: 1 !important;
-  background-color: var(--color-overlay-medium);
-}
-
-.carousel-nav-band.disabled {
-  opacity: 0 !important;
-  pointer-events: none;
-} */
 
 /* ===============================================
   INDICATEUR NUMÉRIQUE DE PAGE (X/Y)

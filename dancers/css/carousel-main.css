@@ -7,15 +7,15 @@
 
   STRUCTURE HTML ATTENDUE :
   <div class="carousel-main">
-  <div class="carousel-main-viewer">
-  <img class="carousel-main-image" src="..." alt="...">
-  <div class="carousel-nav-band carousel-nav-prev">◄</div>
-  <div class="carousel-nav-band carousel-nav-next">►</div>
-  </div>
-  <div class="carousel-main-thumbnails">
-  <div class="carousel-main-thumb active">...</div>
-  <div class="carousel-main-thumb">...</div>
-  </div>
+    <div class="carousel-main-viewer">
+      <img class="carousel-main-image" src="..." alt="...">
+      <div class="carousel-nav-band carousel-nav-prev">◄</div>
+      <div class="carousel-nav-band carousel-nav-next">►</div>
+    </div>
+    <div class="carousel-main-thumbnails">
+      <div class="carousel-main-thumb active">...</div>
+      <div class="carousel-main-thumb">...</div>
+    </div>
   </div>
 
   ⚠️ CRITIQUE : object-fit et dimensions fixées pour gérer
@@ -106,14 +106,7 @@
   ===============================================
 
   Identiques au premier carrousel mais adaptées au viewer.
-  Réutilise les styles .carousel-nav-band de carousel-thumbnails.css
 */
-
-/* .carousel-main-viewer .carousel-nav-band { */
-  /* Hérite des styles de base */
-  /* Ajustements spécifiques au viewer */
-  /* width: 60px;
-} */
 
 .carousel-main-viewer .carousel-nav-band {
   position: absolute;
@@ -180,7 +173,6 @@
   padding: var(--spacing-sm) 0;
 
   /* Scrollbar style */
-  /* scrollbar-width: thin; */
   scrollbar-width: auto;
   scrollbar-color: var(--color-gold) var(--color-gold-dark);
 }

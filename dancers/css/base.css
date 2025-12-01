@@ -97,6 +97,11 @@ em {
   color: var(--color-text-secondary);
 }
 
+::selection {
+  background-color: var(--color-gold-light);
+  color: var(--color-bg-primary);
+}
+
 /* ===============================================
   IMAGES
   ===============================================
@@ -152,7 +157,6 @@ header.nycDanceProject {
   padding: var(--spacing-lg) var(--spacing-xl);
   border-bottom: 2px solid var(--color-border);
   width: 100%;
-  text-align: center;
 }
 
 /* Main content - ⚠️ flex: 1 est CRITIQUE */
@@ -201,8 +205,10 @@ footer {
 */
 
 ::-webkit-scrollbar {
-  height: var(--scrollbar-width);
-  width: 10px;
+  /* height: var(--scrollbar-width);
+  width: 10px; */
+  height: var(--scrollbar-height);
+  width:  var(--scrollbar-width);
   border: var(--scrollbar-border);
 }
 

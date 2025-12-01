@@ -39,7 +39,7 @@ const CONFIG = {
   imagesBasePath: "images/",
 
   // Noms des vignettes de groupe (non cliquables)
-  // groupThumbnails: ["ENSEMBLE", "WOMEN", "MEN"],   ******** WIWI MODIF = MODIFIER ORDRE DES GROUPES ********
+  // groupThumbnails: ["ENSEMBLE", "WOMEN", "MEN"],
   groupThumbnails: ["WOMEN", "MEN", "ENSEMBLE"],
 
   // Image de fallback si une image n'existe pas
@@ -103,7 +103,7 @@ function normalizeDancersData(data) {
   const normalized = [];
 
   data.forEach((groupData) => {
-    const groupName = groupData.Groupe; // "Default", "Ensemble", "Women", "Men"
+    const groupName = groupData.Groupe; // "Default", "Women", "Men", "Ensemble"
     const dancers = groupData.Dancers || [];
 
     // Traiter tous les groupes, y compris "Default"
@@ -167,7 +167,7 @@ function normalizeDancersData(data) {
  * Normalise les chemins d'images en ajoutant le préfixe complet
  *
  * @param {Array} images - Tableau de noms d'images
- * @param {String} groupe - Nom du groupe (Ensemble, Women, Men)
+ * @param {String} groupe - Nom du groupe ( Default, Women, Men,Ensemble)
  * @param {String} folder - Nom du dossier du danseur
  * @param {Boolean} isGroup - Si c'est une vignette de groupe
  * @returns {Array} Chemins complets des images

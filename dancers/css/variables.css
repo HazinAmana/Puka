@@ -170,6 +170,7 @@
   SCROLLBAR CUSTOMISÉE
   =============================================== */
 
+  --scrollbar-height: 10px;
   --scrollbar-width: 10px;
   --scrollbar-thumb-color: var(--color-gold);
   --scrollbar-track-color: var(--color-gold-dark);
