@@ -232,7 +232,7 @@
 
 .page-indicator {
   position: absolute;
-  bottom: 38px;
+  bottom: 32px;
   left: 50%;
   transform: translateX(-50%);
   padding: var(--spacing-xs) var(--spacing-md);
@@ -267,12 +267,7 @@
     --carousel-thumb-total-height: 460px;
   }
 
-  /* .carousel-nav-band {
-    width: 40px;
-    font-size: var(--font-size-xl);
-  } */
-
   .page-indicator {
-    bottom: 22px;
+    bottom: 30px;
   }
 }
