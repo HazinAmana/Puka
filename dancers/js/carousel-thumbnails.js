@@ -149,11 +149,17 @@ function renderThumbnails(dancers) {
             <span class="placeholder-text">Accueil</span>
           </div>
         `;
-        placeholderItem.style.cursor = "default";
+        placeholderItem.style.cursor = "pointer";
         placeholderItem.style.display = "flex";
         placeholderItem.style.alignItems = "center";
         placeholderItem.style.justifyContent = "center";
         placeholderItem.style.backgroundColor = "transparent";
+        // Ajout du comportement : clic = même effet que la vignette du dessous
+        if (dancersInGroup.length > 0) {
+          placeholderItem.addEventListener("click", () =>
+            handleThumbnailClick(dancersInGroup[0])
+          );
+        }
 
         groupColumn.appendChild(placeholderItem);
 
