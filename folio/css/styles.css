@@ -298,6 +298,8 @@ input:focus::placeholder {
   color: light-dark(var(--grey-700), var(--grey-300));
   max-width: 600px;
   margin: 2rem auto;
+  /* Eviter mot orphelin = text-wrap: pretty; */
+  text-wrap: pretty;
 }
 
 hr {
