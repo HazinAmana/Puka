@@ -65,10 +65,6 @@ function initThumbnailCarousel() {
     return;
   }
 
-  // Event listeners pour la navigation
-  // console.log("  - Appel de setupNavigationListeners()...");
-  // setupNavigationListeners();
-
   // Event listeners pour le scroll (mise à jour pagination)
   console.log("  - Appel de setupScrollListener()...");
   setupScrollListener();
@@ -299,107 +295,6 @@ function updatePageIndicator() {
   }
 }
 
-// ===============================================
-// NAVIGATION (FLÈCHES)
-// ===============================================
-
-/**
- * Configure les event listeners pour la navigation
- */
-// function setupNavigationListeners() {
-//   try {
-//     console.log("  📍 Début setupNavigationListeners");
-//     console.log("  📍 thumbNavPrev:", thumbNavPrev);
-//     console.log("  📍 thumbNavNext:", thumbNavNext);
-
-//     if (!thumbNavPrev) {
-//       console.error("❌ thumbNavPrev est null");
-//       return;
-//     }
-
-//     if (!thumbNavNext) {
-//       console.error("❌ thumbNavNext est null");
-//       return;
-//     }
-
-//     console.log("  📍 Ajout des event listeners...");
-
-//     // Navigation précédente
-//     thumbNavPrev.addEventListener("click", (e) => {
-//       e.preventDefault();
-//       e.stopPropagation();
-//       console.log("🔙 Clic navigation précédente");
-//       scrollByPage(-1);
-//     });
-//     console.log("  📍 Listener ajouté sur thumbNavPrev");
-
-//     // Navigation suivante
-//     thumbNavNext.addEventListener("click", (e) => {
-//       e.preventDefault();
-//       e.stopPropagation();
-//       console.log("▶️ Clic navigation suivante");
-//       scrollByPage(1);
-//     });
-//     console.log("  📍 Listener ajouté sur thumbNavNext");
-
-//     console.log("✅ Navigation listeners configurés");
-//   } catch (error) {
-//     console.error("❌ Erreur dans setupNavigationListeners:", error);
-//     console.error("Stack:", error.stack);
-//   }
-// }
-
-/**
- * Scrolle d'une page dans la direction donnée
-//  * @param {Number} direction - -1 (gauche) ou 1 (droite)
-//  */
-// function scrollByPage(direction) {
-//   if (!carouselContainer) {
-//     console.error("❌ carouselContainer est null");
-//     return;
-//   }
-
-//   const containerWidth = carouselContainer.clientWidth;
-//   const scrollAmount = direction * containerWidth;
-
-//   console.log("📏 Container width:", containerWidth);
-//   console.log("📏 Current scrollLeft:", carouselContainer.scrollLeft);
-//   console.log("📏 Scroll amount:", scrollAmount);
-//   console.log("📏 ScrollWidth:", carouselContainer.scrollWidth);
-
-//   carouselContainer.scrollBy({
-//     left: scrollAmount,
-//     behavior: "smooth",
-//   });
-
-//   setTimeout(() => {
-//     console.log("📏 New scrollLeft:", carouselContainer.scrollLeft);
-//   }, 500);
-// }
-
-/**
- * Met à jour l'état des boutons de navigation
- */
-// function updateNavigationState() {
-//   if (carouselContainer.scrollLeft <= 10) {
-//     thumbNavPrev.classList.add("disabled");
-//     thumbNavPrev.style.opacity = "0.3";
-//   } else {
-//     thumbNavPrev.classList.remove("disabled");
-//     thumbNavPrev.style.opacity = "";
-//   }
-
-//   if (
-//     carouselContainer.scrollLeft + carouselContainer.clientWidth >=
-//     carouselContainer.scrollWidth - 10
-//   ) {
-//     thumbNavNext.classList.add("disabled");
-//     thumbNavNext.style.opacity = "0.3";
-//   } else {
-//     thumbNavNext.classList.remove("disabled");
-//     thumbNavNext.style.opacity = "";
-//   }
-// }
 
 // ===============================================
 // GESTION DU CLIC SUR VIGNETTE

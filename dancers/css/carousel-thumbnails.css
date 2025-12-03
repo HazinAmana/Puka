@@ -42,37 +42,6 @@
   CONTENEUR SCROLLABLE (GRID)
   =============================================== */
 
-/* .carousel-thumbnails-container {
-  width: 100%;
-  height: calc(100% - 8px);
-  overflow-x: auto;
-  overflow-y: hidden;
-  position: relative;
-  z-index: 1;
-
-  scroll-snap-type: x mandatory;
-  scroll-behavior: smooth;
-
-  scrollbar-width: auto;
-  scrollbar-color: var(--color-gold) var(--color-gold-dark);
-}
-
-.carousel-thumbnails-container::-webkit-scrollbar {
-  height: 8px;
-}
-
-.carousel-thumbnails-container::-webkit-scrollbar-track {
-  background: var(--color-bg-tertiary);
-}
-
-.carousel-thumbnails-container::-webkit-scrollbar-thumb {
-  background-color: var(--color-gold);
-  border-radius: 4px;
-}
-
-.carousel-thumbnails-container::-webkit-scrollbar-thumb:hover {
-  background-color: var(--color-gold-light);
-} */
 
 .carousel-thumbnails-container {
   width: 100%;

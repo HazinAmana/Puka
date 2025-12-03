@@ -163,53 +163,6 @@
   Bande horizontale scrollable avec les vignettes des images.
 */
 
-/* .carousel-main-thumbnails { */
-  /* ⚠️ CRITIQUE : overflow-x pour le scroll */
-  /* display: flex;
-  flex-direction: row;
-  gap: var(--spacing-sm);
-  width: 100%;
-  overflow-x: auto;
-  padding: var(--spacing-sm) 0; */
-
-  /* Scrollbar style */
-  /* scrollbar-width: auto;
-  scrollbar-color: var(--color-gold) var(--color-gold-dark);
-} */
-
-
-/* .carousel-main-thumbnails { */
-  /* ⚠️ CRITIQUE : overflow-x pour le scroll */
-  /* display: flex;
-  flex-direction: row;
-  gap: var(--spacing-sm);
-  width: 100%;
-  overflow-x: auto;
-  padding: var(--spacing-sm) 0; */
-
-  /* Scrollbar style : même que le bloc de texte */
-  /* scrollbar-width: var(--scrollbar-width);
-  scrollbar-color: var(--scrollbar-thumb-color) var(--scrollbar-track-color);
-}
-
-.carousel-main-thumbnails::-webkit-scrollbar {
-  height: var(--scrollbar-height);
-}
-
-.carousel-main-thumbnails::-webkit-scrollbar-track {
-  background: var(--scrollbar-track-color);
-  border-radius: var(--radius-none);
-}
-
-.carousel-main-thumbnails::-webkit-scrollbar-thumb {
-  background-color: var(--scrollbar-thumb-color);
-  border-radius: var(--radius-none);
-}
-
-.carousel-main-thumbnails::-webkit-scrollbar-thumb:hover {
-  background-color: var(--color-gold-light);
-} */
-
 .carousel-main-thumbnails {
   /* ⚠️ CRITIQUE : overflow-x pour le scroll */
   display: flex;
