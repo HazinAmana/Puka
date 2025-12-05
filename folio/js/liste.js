@@ -105,6 +105,21 @@ function render() {
   const sorted = sortData(filtered);
   const pageData = paginate(sorted);
 
+  // Corps de table remplacé par le bloc ci-dessous, tant que les pages html ne sont pas créées
+  // tableBody.innerHTML = pageData
+  //   .map(
+  //     (p) => `
+  //       <tr>
+  //         <td>${p.name}</td>
+  //         <td>${p.category}</td>
+  //         <td>${p.location}</td>
+  //         <td>${p.date}</td>
+  //         <td><a href="${p.url}">Voir</a></td>
+  //       </tr>
+  //     `
+  //   )
+  //   .join("");
+
   // Corps de table
   tableBody.innerHTML = pageData
     .map(
@@ -114,7 +129,6 @@ function render() {
           <td>${p.category}</td>
           <td>${p.location}</td>
           <td>${p.date}</td>
-          // <td><a href="${p.url}">Voir</a></td> => remplacer par lien fixe ci-dessous, tant que les pages ne sont pas créées
           <td><a href="shopping-mall.html">Voir</a></td>
         </tr>
       `
