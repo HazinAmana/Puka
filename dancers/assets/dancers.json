@@ -102,7 +102,9 @@
       },
       {
         "Nom": "Hee Seo",
-        "Description": ["<p><em>Principal dancer, American Ballet Theatre</em></p>"],
+        "Description": [
+          "<p><em>Principal dancer, American Ballet Theatre</em></p>"
+        ],
         "Images": ["Hee_Seo_01.webp", "Hee_Seo_02.webp", "Hee_Seo_03.webp"]
       },
       {
@@ -228,7 +230,9 @@
       },
       {
         "Nom": "PeiJu Chien-Pott",
-        "Description": ["<p><em>Principal dancer, Martha Graham Dance Company</em></p>"],
+        "Description": [
+          "<p><em>Principal dancer, Martha Graham Dance Company</em></p>"
+        ],
         "Images": [
           "PeiJu_Chien-Pott_01.webp",
           "PeiJu_Chien-Pott_02.webp",
@@ -438,7 +442,9 @@
       },
       {
         "Nom": "Lloyd Knight",
-        "Description": ["<p><em>Principal dancer, Martha Graham Dance Company</em></p>"],
+        "Description": [
+          "<p><em>Principal dancer, Martha Graham Dance Company</em></p>"
+        ],
         "Images": ["Lloyd_Knight_02.webp", "Lloyd_Knight_02.webp"]
       },
       {
@@ -530,7 +536,9 @@
       },
       {
         "Nom": "Alvin Ailey dancers",
-        "Description": [""],
+        "Description": [
+          "<p><em>Michael Jackson Jr, Daniel Harder, Sean Aaron Carmon, Alvin Ailey American Dance Theater.</em></p>"
+        ],
         "Images": ["Alvin_Ailey_Dancers_01.webp"]
       },
       {
@@ -579,7 +587,7 @@
       },
       {
         "Nom": "Michael Jackson Jr and Sean Carmon",
-        "Description": [""],
+        "Description": ["<p><em>Alvin Ailey American Dance Theater</em></p>"],
         "Images": ["Michael_Jackson_Jr_and_Sean_Carmon_01.webp"]
       },
       {
