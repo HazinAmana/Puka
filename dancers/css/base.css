@@ -221,12 +221,12 @@ footer {
 }
 
 ::-webkit-scrollbar-track {
-  border-radius: var(--radius-none);
+  border-radius: var(--radius-none) !important;
   background: var(--scrollbar-track-color);
 }
 
 ::-webkit-scrollbar-thumb {
-  border-radius: var(--radius-none);
+  border-radius: var(--radius-none) !important;
   background: var(--scrollbar-thumb-color);
 }
 

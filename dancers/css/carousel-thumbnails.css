@@ -53,43 +53,6 @@
 
   scroll-snap-type: x mandatory;
   scroll-behavior: smooth;
-
-  /* Utilisation des variables globales pour la scrollbar */
-  scrollbar-width: var(--scrollbar-width);
-  scrollbar-color: var(--scrollbar-thumb-color) var(--scrollbar-track-color);
-}
-
-.carousel-thumbnails-container::-webkit-scrollbar {
-  height: var(--scrollbar-height); /* 10px */
-}
-
-.carousel-thumbnails-container::-webkit-scrollbar-track {
-  /* background: var(--scrollbar-track-color);
-  border-radius: var(--radius-none); */
-  background: var(--scrollbar-track-color) !important;
-  border-radius: 0 !important;
-}
-
-.carousel-thumbnails-container::-webkit-scrollbar-thumb {
-  /* background-color: var(--scrollbar-thumb-color);
-  border-radius: var(--radius-none); */
-  background-color: var(--scrollbar-thumb-color) !important;
-  border-radius: 0 !important;
-  min-width: 10px;
-  min-height: 10px;
-  transition: background-color 0.2s;
-}
-
-.carousel-thumbnails-container::-webkit-scrollbar-thumb:hover {
-  /* background-color: var(--color-gold-light); */
-  background-color: var(--color-gold-light) !important;
-  border-radius: 0 !important;
-}
-
-/* Firefox */
-.carousel-thumbnails-container {
-  scrollbar-width: thin;
-  scrollbar-color: var(--scrollbar-thumb-color) var(--scrollbar-track-color);
 }
 
 /* ===============================================
