@@ -228,7 +228,7 @@ ul {
 }
 
 #progress-value {
-  display: block;
+  /* display: block; */
   height: calc(100% - 15px);
   width: calc(100% - 15px);
   background-color: #f1f1f1;
