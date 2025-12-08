@@ -339,6 +339,8 @@ p {
   font-size: 1rem;
   margin-bottom: 1rem;
   color: light-dark(var(--grey-700), var(--grey-300));
+  max-width: 80ch;
+  text-wrap: pretty;
 }
 
 li {
@@ -487,7 +489,7 @@ blockquote p::after {
 
 p.cite {
   text-align: right;
-  margin: -.9rem 3rem 0 0;
+  margin: -1.3rem 8rem 0 0;
   font-style: italic;
   color: var(--accent-color)
 }
