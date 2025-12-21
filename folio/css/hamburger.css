@@ -236,8 +236,8 @@ a.border-reveal.active::after {
   /* Centers content vertically if space permits, allows scroll if not */
   overflow-y: auto;
   -webkit-overflow-scrolling: touch; /* enable momentum scrolling on iOS */
-  flex: 1 1 auto;                     /* allow the list to grow/shrink within the flex container */
-  min-height: 0;                      /* allow the list to be smaller than its content so overflow works */
+  flex: 1 1 auto; /* allow the list to grow/shrink within the flex container */
+  min-height: 0; /* allow the list to be smaller than its content so overflow works */
   width: 100%;
 }
 
