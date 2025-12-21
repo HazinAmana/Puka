@@ -33,30 +33,34 @@ body {
   padding: 1rem;
 }
 
+h1 {
+  text-align: center;
+  color: var(--color-Vert-300);
+  margin-bottom: 2rem;
+}
+
+.back-link {
+  color: var(--color-Vert-200);
+  margin-bottom: 2rem;
+  display: block;
+  text-decoration: none;
+}
+
+.back-link:hover {
+  transform: translateX(-2px);
+}
+
 ::selection {
-  background: purple;
+  background: #7b067f;
   color: white;
 }
 
 section {
-  /* display: flex; */
-  /* max-width: 98%; */
   padding: 1rem;
   margin: 2rem auto;
   border: 1px solid var(--color-Vert-200);
   gap: 1rem;
 }
-/* .section_01 {
-  background: var(--color-Vert-400);
-  color: var(--color-Marron-900);
-  border: 1px solid var(--color-Vert-900);
-} */
-
-/* .section_02 {
-  background: var(--color-Marron-900);
-  color: var(--color-Vert-100);
-  border: 1px solid var(--color-Vert-400);
-} */
 
 img {
   width: 100%; /* du container */
@@ -64,7 +68,6 @@ img {
   max-height: 43rem;
   object-fit: cover;
   border: 2px solid var(--color-Vert-50);
-  /* margin-inline-end: 2rem; */
 }
 
 .vignettes {
