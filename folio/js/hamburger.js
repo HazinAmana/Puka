@@ -12,6 +12,8 @@ const mobileNavLinks = mobileNav.querySelectorAll("a");
 
 // Variable pour suivre l'état du menu
 let isMenuOpen = false;
+// Référence pour le bloqueur de touch move (permet d'autoriser le scroll dans le menu tout en bloquant le scroll de la page)
+let _touchMoveBlocker = null;
 
 /**
  * Fonction pour ouvrir le menu
@@ -27,6 +29,15 @@ function openMenu() {
 
   // Empêcher le scroll du body quand le menu est ouvert
   document.body.style.overflow = "hidden";
+
+  // Bloquer le touchmove global sauf si la cible est à l'intérieur du menu mobile
+  // Cela permet le défilement natif du menu sur Android/Samsung tout en empêchant la page parent de défiler
+  _touchMoveBlocker = function (e) {
+    if (!mobileNav.contains(e.target)) {
+      e.preventDefault();
+    }
+  };
+  document.addEventListener("touchmove", _touchMoveBlocker, { passive: false });
 
   // --- MODIFICATION : GESTION DE L'ACTIF ET DU FOCUS ---
 
@@ -78,6 +89,12 @@ function closeMenu() {
 
   // Rétablir le scroll du body
   document.body.style.overflow = "";
+
+  // Supprimer le bloqueur de touchmove si présent
+  if (_touchMoveBlocker) {
+    document.removeEventListener("touchmove", _touchMoveBlocker, { passive: false });
+    _touchMoveBlocker = null;
+  }
 }
 
 /**

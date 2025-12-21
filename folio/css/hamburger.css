@@ -204,7 +204,10 @@ a.border-reveal.active::after {
   backdrop-filter: blur(20px);
   box-shadow: -5px 0 25px rgba(0, 0, 0, 0.15);
   z-index: 9999;
-  overflow: auto;
+  overflow-y: auto;
+  -webkit-overflow-scrolling: touch; /* momentum scrolling on iOS */
+  touch-action: pan-y; /* allow vertical panning inside the menu */
+  overscroll-behavior: contain; /* prevent scroll chaining to the body */
 
   /* Animation fluide d'ouverture */
   transition: right 0.4s cubic-bezier(0.4, 0, 0.2, 1);
