@@ -63,7 +63,7 @@ img {
   height: 100%; /* du container */
   max-height: 43rem;
   object-fit: cover;
-  border: 1px solid var(--color-Vert-900);
+  border: 2px solid var(--color-Vert-50);
   /* margin-inline-end: 2rem; */
 }
 
