@@ -56,14 +56,13 @@ h1 {
   color: white;
 }
 
-section.marronVert {
+section {
   padding: 1rem;
   margin: 2rem auto;
-  background: var(--color-Marron-800);
-  border: 1px solid var(--color-Vert-200);
+  background: var(--color-Marron-900);
+  border: 1px solid var(--color-Vert-300);
   gap: 1rem;
 }
-
 img {
   width: 100%; /* du container */
   height: 100%; /* du container */
@@ -121,6 +120,65 @@ img {
 
 .vignette_06 {
   background: hsl(32, 13%, 26%);
+  color: white;
+}
+
+.vignette_07 {
+  background: #ffe09c;
+  color: black;
+}
+
+.vignette_08 {
+  background: #f2c572;
+  color: black;
+}
+.vignette_09 {
+  background: #cd6209;
+  color: white;
+}
+
+.vignette_10 {
+  background: #857e6b;
+  color: white;
+}
+
+.vignette_11 {
+  background: #987450;
+  color: white;
+}
+
+.vignette_12 {
+  background: #464b18;
+  color: white;
+}
+
+
+.vignette_13 {
+  background: #ecececff;
+  color: black;
+}
+
+.vignette_14 {
+  background: #cececeff;
+  color: black;
+}
+.vignette_15 {
+  background: #b1b1b1ff;
+  color: black;
+}
+
+.vignette_16 {
+  background: #707070ff;
+  color: white;
+}
+
+.vignette_17 {
+  background: #535353ff;
+  color: white;
+}
+
+.vignette_18 {
+  background: #1f1f1fff;
   color: white;
 }
 
