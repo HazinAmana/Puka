@@ -232,7 +232,9 @@ a.border-reveal.active::after {
   list-style: none;
   display: flex;
   flex-direction: column;
-  margin: auto 0; /* Centers content vertically if space permits, allows scroll if not */
+  margin: auto 0;
+  /* Centers content vertically if space permits, allows scroll if not */
+  overflow-y: auto;
 }
 
 .nav-mobile li {

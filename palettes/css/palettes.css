@@ -36,11 +36,12 @@ body {
 h1 {
   text-align: center;
   color: var(--color-Vert-300);
+  text-transform: uppercase;
   margin-bottom: 2rem;
 }
 
 .back-link {
-  color: var(--color-Vert-200);
+  color: var(--color-Vert-400);
   margin-bottom: 2rem;
   display: block;
   text-decoration: none;
