@@ -29,7 +29,7 @@
 }
 
 body {
-  background: var(--color-Marron-800);
+  background: black;
   padding: 1rem;
 }
 
@@ -56,9 +56,10 @@ h1 {
   color: white;
 }
 
-section {
+section.marronVert {
   padding: 1rem;
   margin: 2rem auto;
+  background: var(--color-Marron-800);
   border: 1px solid var(--color-Vert-200);
   gap: 1rem;
 }
