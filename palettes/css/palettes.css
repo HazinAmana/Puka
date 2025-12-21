@@ -57,9 +57,10 @@ h1 {
 }
 
 section {
+  max-width: 90rem;
   padding: 1rem;
   margin: 2rem auto;
-  background: var(--color-Marron-900);
+  background: var(--color-Marron-800);
   border: 1px solid var(--color-Vert-300);
   gap: 1rem;
 }
@@ -68,7 +69,16 @@ img {
   height: 100%; /* du container */
   max-height: 43rem;
   object-fit: cover;
+  /* Positionner l'img pour qu'elle soit croppée par la gche */
+  object-position: right;
   border: 2px solid var(--color-Vert-50);
+  /* Flip image horizontally */
+  -moz-transform: scaleX(-1);
+  -o-transform: scaleX(-1);
+  -webkit-transform: scaleX(-1);
+  transform: scaleX(-1);
+  filter: FlipH;
+  -ms-filter: "FlipH";
 }
 
 .vignettes {
@@ -79,7 +89,7 @@ img {
   font-size: 0.8rem;
 }
 
-@media (width < 48rem) {
+@media (width < 50rem) {
   .vignettes {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -151,7 +161,6 @@ img {
   background: #464b18;
   color: white;
 }
-
 
 .vignette_13 {
   background: #ecececff;
