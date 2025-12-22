@@ -1,3 +1,12 @@
+/**
+ * showcase/showcase.js
+ * - Curved scrollbar implementation for the showcase demo
+ * - Mobile behaviour: we set the right panel height to the image height so the
+ *   inner `.scroll-content` becomes scrollable and doesn't expand the whole page.
+ * - Performance: custom "curved-scroll-update" event is used to recompute
+ *   scrollbars after layout changes instead of dispatching a global window resize.
+ */
+
 console.clear();
 
 // config
