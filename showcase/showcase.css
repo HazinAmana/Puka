@@ -9,9 +9,34 @@
 }
 
 .portfo {
-  /* margin: 3rem auto; */
   padding: 0.5rem;
   border: 1px solid var(--border-color);
+}
+.buttonSmall {
+  background-color: var(--accent-color-muted);
+  border: none;
+  border-radius: 4px;
+  color: light-dark(var(--grey-900), var(--grey-050));
+  padding: 4px 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 0.7rem;
+  cursor: pointer;
+  margin: 0 0 1rem 0;
+  transition: color 0.2s ease;
+}
+
+.buttonSmall:hover {
+  color: light-dark(var(--grey-050), var(--grey-900));
+  transform: translateX(2px);
+}
+
+.headerDuo {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0.7rem 1rem 1rem 0;
 }
 
 /* --------------------------------------- */
