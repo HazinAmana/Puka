@@ -37,6 +37,9 @@ function initCurvedScrollbar(container) {
   svg.appendChild(thumbPath);
   container.appendChild(svg);
 
+  // allow external callers to ask the scrollbar to recompute when layout changes
+  container.addEventListener("curved-scroll-update", updatePath);
+
   // state
   let pathLength = 0;
   let thumbLength = 50;
@@ -170,22 +173,37 @@ function syncScrollContainerHeights() {
       }
     });
 
-  // recalc any custom scrollbars
-  window.dispatchEvent(new Event("resize"));
+  // recalc any custom scrollbars by dispatching a local event (avoids triggering global resize handlers)
+  document
+    .querySelectorAll('.doubleHoriz[data-layout*="duo"] .scroll-container')
+    .forEach((container) =>
+      container.dispatchEvent(new Event("curved-scroll-update"))
+    );
 }
 
-// Run on load, resize and when images finish loading
-window.addEventListener("resize", syncScrollContainerHeights);
-window.addEventListener("orientationchange", syncScrollContainerHeights);
-window.addEventListener("load", syncScrollContainerHeights);
+// small debounce helper to avoid noisy repeated calls
+function debounce(fn, wait = 100) {
+  let t = null;
+  return function (...args) {
+    clearTimeout(t);
+    t = setTimeout(() => fn.apply(this, args), wait);
+  };
+}
+
+const debouncedSync = debounce(syncScrollContainerHeights, 80);
+
+// Run on load, resize and when images finish loading (debounced)
+window.addEventListener("resize", debouncedSync);
+window.addEventListener("orientationchange", debouncedSync);
+window.addEventListener("load", debouncedSync);
 
 // Also bind to image load for dynamic images
 document
   .querySelectorAll('.doubleHoriz[data-layout*="duo"] .portfo')
   .forEach((img) => {
-    if (img.complete) syncScrollContainerHeights();
-    else img.addEventListener("load", syncScrollContainerHeights);
+    if (img.complete) debouncedSync();
+    else img.addEventListener("load", debouncedSync);
   });
 
 // In case scripts execute early
-setTimeout(syncScrollContainerHeights, 200);
+setTimeout(debouncedSync, 200);
