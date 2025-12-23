@@ -60,6 +60,11 @@ body {
   line-height: 1.6;
 }
 
+.qrCode {
+  max-width: 10rem;
+  margin: 0 auto;
+}
+
 /* ********** TOGGLE CLASSIC BUTTON ********** */
 .theme-toggle.theme-toggle--reversed .theme-toggle__classic {
   transform: scale(-1, 1);
