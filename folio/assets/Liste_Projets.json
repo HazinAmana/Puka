@@ -32,8 +32,8 @@
     "innovation": "Système de ventilation naturelle par puits canadien",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "mediatheque_beton_recycle.html",
-    "popup": "<b>Médiathèque en béton recyclé</b><br>Marseille, 2021-12<br><a href='mediatheque_beton_recycle.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Médiathèque en béton recyclé</b><br>Marseille, 2021-12<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 2,
@@ -47,8 +47,8 @@
     "date": "2023",
     "thumbnail": "images/villaContemporaine.jpg",
     "image": "images/villaContemporaine.jpg",
-    "url": "villa_contemporaine.html",
-    "popup": "<b>Conception d'une villa moderne avec vue sur la Méditerranée</b><br>Nice, 2023<br><a href='villa_contemporaine.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Conception d'une villa moderne avec vue sur la Méditerranée</b><br>Nice, 2023<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 3,
@@ -65,8 +65,8 @@
     "public": "Familial, éducatif",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "parc_attractions_prehistoire.html",
-    "popup": "<b>Maison passive en bois et verre</b><br>Grenoble, 2022-05<br><a href='parc_attractions_prehistoire.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Maison passive en bois et verre</b><br>Grenoble, 2022-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 4,
@@ -83,8 +83,8 @@
     "awards": "Prix de la Réhabilitation 2021 - Région Hauts-de-France",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "lofts_usine_roubaix.html",
-    "popup": "<b>Réhabilitation d'une usine en lofts</b><br>Roubaix, 2020-11<br><a href='lofts_usine_roubaix.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Réhabilitation d'une usine en lofts</b><br>Roubaix, 2020-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 5,
@@ -101,8 +101,8 @@
     "energy": "Autosuffisante à 80%",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "ecole_bioclimatique_bordeaux.html",
-    "popup": "<b>École primaire bioclimatique</b><br>Bordeaux, 2023-09<br><a href='ecole_bioclimatique_bordeaux.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>École primaire bioclimatique</b><br>Bordeaux, 2023-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 6,
@@ -119,8 +119,8 @@
     "innovation": "Façades dynamiques à régulation thermique",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "tour_energie_positive_lyon.html",
-    "popup": "<b>Tour résidentielle à énergie positive</b><br>Lyon, 2024-01<br><a href='tour_energie_positive_lyon.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Tour résidentielle à énergie positive</b><br>Lyon, 2024-01<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 7,
@@ -137,8 +137,8 @@
     "architect": "Atelier Structure Libre",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "pont_pieton_strasbourg.html",
-    "popup": "<b>Pont piéton en structure tendue</b><br>Strasbourg, 2021-07<br><a href='pont_pieton_strasbourg.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Pont piéton en structure tendue</b><br>Strasbourg, 2021-07<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 8,
@@ -155,8 +155,8 @@
     "program": "Salles d'exposition, auditorium, café associatif",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "centre_culturel_terre_crue.html",
-    "popup": "<b>Centre culturel en terre crue</b><br>Montpellier, 2023-03<br><a href='centre_culturel_terre_crue.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Centre culturel en terre crue</b><br>Montpellier, 2023-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 9,
@@ -173,8 +173,8 @@
     "energy": "Panneaux solaires et système de récupération d'eau de pluie",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "hotel_flottant_loire.html",
-    "popup": "<b>Hôtel flottant sur la Loire</b><br>Nantes, 2022-08<br><a href='hotel_flottant_loire.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Hôtel flottant sur la Loire</b><br>Nantes, 2022-08<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 10,
@@ -191,8 +191,8 @@
     "particularity": "Toit recouvert de mousse pour une isolation naturelle",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "bibliothèque_foret_vosges.html",
-    "popup": "<b>Bibliothèque en forêt</b><br>Vosges, 2020-04<br><a href='bibliothèque_foret_vosges.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Bibliothèque en forêt</b><br>Vosges, 2020-04<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 11,
@@ -209,8 +209,8 @@
     "flexibility": "Espaces reconfigurables en 48h",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "siege_modulaire_toulouse.html",
-    "popup": "<b>Siège social en architecture modulaire</b><br>Toulouse, 2023-11<br><a href='siege_modulaire_toulouse.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Siège social en architecture modulaire</b><br>Toulouse, 2023-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 12,
@@ -224,8 +224,8 @@
     "featured": true,
     "thumbnail": "images/MuseeArtModerneParis.webp",
     "image": "images/MuseeArtModerneParis.webp",
-    "url": "portfolio.html",
-    "popup": "<b>Musée d'Art Moderne ★</b><br>Paris, 2024<br><a href='portfolio.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Musée d'Art Moderne ★</b><br>Paris, 2024<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 13,
@@ -241,9 +241,9 @@
     "dimensions": "12m x 4m",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "murales_montmartre.html",
+    "url": "shopping-mall.html",
     "collaboration": "Collectif Art Libre",
-    "popup": "<b>Murales éphémères de Montmartre</b><br>Montmartre, Paris, 2021-06<br><a href='murales_montmartre.html'>Voir le projet</a>"
+    "popup": "<b>Murales éphémères de Montmartre</b><br>Montmartre, Paris, 2021-06<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 14,
@@ -259,8 +259,8 @@
     "exposition": "Galerie Recycl'Art, Lyon",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "sculptures_metal_recycle.html",
-    "popup": "<b>Sculptures en métal recyclé</b><br>Lyon, 2019-11<br><a href='sculptures_metal_recycle.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Sculptures en métal recyclé</b><br>Lyon, 2019-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 15,
@@ -274,8 +274,8 @@
     "date": "2013-08",
     "thumbnail": "images/pexels/pexels_01.webp",
     "image": "images/pexels/pexels_01.webp",
-    "url": "featured.html",
-    "popup": "<b>Galerie d'art moderne ★</b><br>Saint-Étienne, 2013-08<br><a href='featured.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Galerie d'art moderne ★</b><br>Saint-Étienne, 2013-08<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 16,
@@ -289,8 +289,8 @@
     "date": "2003-08",
     "thumbnail": "images/pexels/pexels_08.webp",
     "image": "images/pexels/pexels_08.webp",
-    "url": "featured.html",
-    "popup": "<b>Classic Music Festival ★</b><br>Strasbourg, 2003-08<br><a href='featured.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Classic Music Festival ★</b><br>Strasbourg, 2003-08<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 17,
@@ -306,8 +306,8 @@
     "event": "Festival des Lumières 2023",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "installation_lumineuse_eveil.html",
-    "popup": "<b>Installation lumineuse : L'Éveil</b><br>Nantes, 2023-03<br><a href='installation_lumineuse_eveil.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Installation lumineuse : L'Éveil</b><br>Nantes, 2023-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 18,
@@ -323,8 +323,8 @@
     "series": "Visages de l'âme",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "portraits_encre_chine.html",
-    "popup": "<b>Portraits à l'encre de Chine</b><br>Bordeaux, 2020-09<br><a href='portraits_encre_chine.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Portraits à l'encre de Chine</b><br>Bordeaux, 2020-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 19,
@@ -340,8 +340,8 @@
     "duration": "3 mois (œuvre éphémère)",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "landart_cercles_pierre.html",
-    "popup": "<b>Land Art : Cercles de pierre</b><br>Bretagne, 2022-05<br><a href='landart_cercles_pierre.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Land Art : Cercles de pierre</b><br>Bretagne, 2022-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 20,
@@ -357,8 +357,8 @@
     "event": "Biennale d'Art Contemporain",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "performance_danse_couleurs.html",
-    "popup": "<b>Performance : Danse des couleurs</b><br>Marseille, 2024-02<br><a href='performance_danse_couleurs.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Performance : Danse des couleurs</b><br>Marseille, 2024-02<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 21,
@@ -374,8 +374,8 @@
     "collection": "Forêt Intérieure",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "ceramiques_nature.html",
-    "popup": "<b>Céramiques inspirées de la nature</b><br>Limoges, 2020-04<br><a href='ceramiques_nature.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Céramiques inspirées de la nature</b><br>Limoges, 2020-04<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 22,
@@ -391,8 +391,8 @@
     "edition": "30 exemplaires numérotés",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "gravures_mythes_legendes.html",
-    "popup": "<b>Gravures sur bois : Mythes et légendes</b><br>Rennes, 2021-10<br><a href='gravures_mythes_legendes.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Gravures sur bois : Mythes et légendes</b><br>Rennes, 2021-10<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 23,
@@ -408,8 +408,8 @@
     "software": "Processing, Adobe Photoshop",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "art_numerique_reves_fractals.html",
-    "popup": "<b>Art numérique : Rêves fractals</b><br>Strasbourg, 2023-07<br><a href='art_numerique_reves_fractals.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Art numérique : Rêves fractals</b><br>Strasbourg, 2023-07<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 24,
@@ -425,8 +425,8 @@
     "theme": "Inconscient collectif",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "collages_surrealistes.html",
-    "popup": "<b>Collages surréalistes</b><br>Toulouse, 2022-12<br><a href='collages_surrealistes.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Collages surréalistes</b><br>Toulouse, 2022-12<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 25,
@@ -442,8 +442,8 @@
     "participants": "50+ habitants",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "fresque_communautaire_ensemble.html",
-    "popup": "<b>Fresque communautaire : Ensemble</b><br>Lille, 2023-09<br><a href='fresque_communautaire_ensemble.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Fresque communautaire : Ensemble</b><br>Lille, 2023-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 26,
@@ -459,8 +459,8 @@
     "exposition": "Galerie Urbaine, Paris",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "photographie_reflets_urbains.html",
-    "popup": "<b>Photographie expérimentale : Reflets urbains</b><br>Paris, 2024-01<br><a href='photographie_reflets_urbains.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Photographie expérimentale : Reflets urbains</b><br>Paris, 2024-01<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 27,
@@ -477,8 +477,8 @@
     "awards": "Prix du Design Durable 2023 - Salon du Meuble de Paris",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "chaise_modulable_liege.html",
-    "popup": "<b>Chaise modulable en liège et aluminium</b><br>France, 2023-02<br><a href='chaise_modulable_liege.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Chaise modulable en liège et aluminium</b><br>France, 2023-02<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 28,
@@ -495,8 +495,8 @@
     "collaboration": "Atelier Céramique de Biot",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "lampe_solaire_ceramique.html",
-    "popup": "<b>Lampe solaire en céramique artisanale</b><br>France, 2022-09<br><a href='lampe_solaire_ceramique.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Lampe solaire en céramique artisanale</b><br>France, 2022-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 29,
@@ -513,8 +513,8 @@
     "particularity": "Système de fixation pour vélo ou trottinette",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "sac_dos_urbain_recycle.html",
-    "popup": "<b>Sac à dos urbain en toile recyclée</b><br>France, 2024-01<br><a href='sac_dos_urbain_recycle.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Sac à dos urbain en toile recyclée</b><br>France, 2024-01<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 30,
@@ -531,8 +531,8 @@
     "edition": "Série limitée de 50 exemplaires",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "table_basse_marbre_acier.html",
-    "popup": "<b>Table basse en marbre et acier</b><br>France, 2023-11<br><a href='table_basse_marbre_acier.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Table basse en marbre et acier</b><br>France, 2023-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 31,
@@ -549,8 +549,8 @@
     "particularity": "Bracelet interchangeable en liège ou cuir végétal",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "montre_eco_bois_titane.html",
-    "popup": "<b>Montre éco-conçue en bois et titane</b><br>France, 2022-05<br><a href='montre_eco_bois_titane.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Montre éco-conçue en bois et titane</b><br>France, 2022-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 32,
@@ -564,8 +564,8 @@
     "date": "2020-04",
     "thumbnail": "images/pexels/pexels_04.webp",
     "image": "images/pexels/pexels_04.webp",
-    "url": "featured.html",
-    "popup": "<b>Design de maison écologique ★</b><br>Nantes, 2020-04<br><a href='featured.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Design de maison écologique ★</b><br>Nantes, 2020-04<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 33,
@@ -582,8 +582,8 @@
     "packaging": "Emballage compostable en amidon de maïs",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "couverts_bambou_resine.html",
-    "popup": "<b>Couverts en bambou et résine biodégradable</b><br>France, 2023-07<br><a href='couverts_bambou_resine.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Couverts en bambou et résine biodégradable</b><br>France, 2023-07<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 34,
@@ -600,8 +600,8 @@
     "dimensions": "H 110 cm x L 80 cm x P 80 cm",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "fauteuil_suspendu_corde.html",
-    "popup": "<b>Fauteuil suspendu en corde et métal</b><br>France, 2021-10<br><a href='fauteuil_suspendu_corde.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Fauteuil suspendu en corde et métal</b><br>France, 2021-10<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 35,
@@ -618,8 +618,8 @@
     "colors": "Noir mat, blanc, bleu nuit",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "bouteille_isotherme_acier.html",
-    "popup": "<b>Bouteille isotherme en acier inoxydable</b><br>France, 2023-04<br><a href='bouteille_isotherme_acier.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Bouteille isotherme en acier inoxydable</b><br>France, 2023-04<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 36,
@@ -636,8 +636,8 @@
     "edition": "Pièce unique ou série limitée sur commande",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "etagere_verre_souffle.html",
-    "popup": "<b>Étagère murale en verre soufflé</b><br>France, 2022-12<br><a href='etagere_verre_souffle.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Étagère murale en verre soufflé</b><br>France, 2022-12<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 37,
@@ -654,8 +654,8 @@
     "folding_time": "Moins de 10 secondes",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "velo_urbain_bambou.html",
-    "popup": "<b>Vélo urbain pliable en bambou</b><br>France, 2024-03<br><a href='velo_urbain_bambou.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Vélo urbain pliable en bambou</b><br>France, 2024-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 38,
@@ -672,8 +672,8 @@
     "theme": "Médiéval, fantastique",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "escape_game_chateau_hante.html",
-    "popup": "<b>Escape Game : Le Mystère du Château Hanté</b><br>Amboise, 2023-10<br><a href='escape_game_chateau_hante.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Escape Game : Le Mystère du Château Hanté</b><br>Amboise, 2023-10<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 39,
@@ -690,8 +690,8 @@
     "public": "Tout âge, familial",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "festival_lumiere_annecy.html",
-    "popup": "<b>Festival de Lumière : Nuits Étoilées</b><br>Annecy, 2024-08<br><a href='festival_lumiere_annecy.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Festival de Lumière : Nuits Étoilées</b><br>Annecy, 2024-08<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 40,
@@ -709,8 +709,8 @@
     "illustrator": "Julien Delval",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "jeu_aventuriers_rail_france.html",
-    "popup": "<b>Jeu de Société : Les Aventuriers du Rail - Édition France</b><br>France, 2023-11<br><a href='jeu_aventuriers_rail_france.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Jeu de Société : Les Aventuriers du Rail - Édition France</b><br>France, 2023-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 41,
@@ -727,8 +727,8 @@
     "public": "Familial, en plein air",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "spectacle_rue_parade_geants.html",
-    "popup": "<b>Spectacle de Rue : La Parade des Géants</b><br>Lille, 2024-06<br><a href='spectacle_rue_parade_geants.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Spectacle de Rue : La Parade des Géants</b><br>Lille, 2024-06<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 42,
@@ -745,8 +745,8 @@
     "technology": "Système audio 360°, projections holographiques",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "concert_immersif_symphonie.html",
-    "popup": "<b>Concert Immersif : Symphonie des Éléments</b><br>Philharmonie de Paris, 2023-12<br><a href='concert_immersif_symphonie.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Concert Immersif : Symphonie des Éléments</b><br>Philharmonie de Paris, 2023-12<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 43,
@@ -763,8 +763,8 @@
     "public": "Familial, éducatif",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "parc_attractions_prehistoire.html",
-    "popup": "<b>Parc d'Attractions : Aventure Préhistorique</b><br>Les Eyzies-de-Tayac, 2022-05<br><a href='parc_attractions_prehistoire.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Parc d'Attractions : Aventure Préhistorique</b><br>Les Eyzies-de-Tayac, 2022-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 44,
@@ -781,8 +781,8 @@
     "particularity": "Photobooth et jeux vidéo rétro",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "soiree_theme_annees_80.html",
-    "popup": "<b>Soirée à Thème : Les Années 80</b><br>Paris, 2024-03<br><a href='soiree_theme_annees_80.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Soirée à Thème : Les Années 80</b><br>Paris, 2024-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 45,
@@ -799,8 +799,8 @@
     "technology": "Application mobile dédiée avec géolocalisation",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "chasse_tresor_lyon.html",
-    "popup": "<b>Chasse au Trésor Urbaine : Les Secrets de Lyon</b><br>Lyon, 2023-09<br><a href='chasse_tresor_lyon.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Chasse au Trésor Urbaine : Les Secrets de Lyon</b><br>Lyon, 2023-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 46,
@@ -817,8 +817,8 @@
     "public": "Adultes et enfants à partir de 12 ans",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "atelier_masques_venitiens.html",
-    "popup": "<b>Atelier Créatif : Fabrication de Masques Vénitiens</b><br>France (Venise, Italie et en ligne), 2024-02<br><a href='atelier_masques_venitiens.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Atelier Créatif : Fabrication de Masques Vénitiens</b><br>France (Venise, Italie et en ligne), 2024-02<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 47,
@@ -835,8 +835,8 @@
     "developper": "Studio Lumière Perdue",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "jeu_video_ombre_oublies.html",
-    "popup": "<b>Jeu Vidéo Indépendant : L'Ombre des Oubliés</b><br>France, 2023-06<br><a href='jeu_video_ombre_oublies.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Jeu Vidéo Indépendant : L'Ombre des Oubliés</b><br>France, 2023-06<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 48,
@@ -854,8 +854,8 @@
     "objectives": "Développer la logique, la créativité et l'esprit d'équipe",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "atelier_robotique_enfants.html",
-    "popup": "<b>Atelier d'Initiation à la Robotique pour Enfants</b><br>Paris, 2024-01<br><a href='atelier_robotique_enfants.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Atelier d'Initiation à la Robotique pour Enfants</b><br>Paris, 2024-01<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 49,
@@ -872,8 +872,8 @@
     "certification": "Attestation de suivi avec succès",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "mooc_histoire_art.html",
-    "popup": "<b>MOOC : Histoire de l'Art pour Tous</b><br>France, 2023-09<br><a href='mooc_histoire_art.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>MOOC : Histoire de l'Art pour Tous</b><br>France, 2023-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 50,
@@ -889,8 +889,8 @@
     "partners": "Écoles en France, États-Unis et Canada",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "echange_linguistique_en_ligne.html",
-    "popup": "<b>Programme d'Échanges Linguistiques en Ligne</b><br>International (en ligne), 2023-11<br><a href='echange_linguistique_en_ligne.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Programme d'Échanges Linguistiques en Ligne</b><br>International (en ligne), 2023-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 51,
@@ -907,8 +907,8 @@
     "activities": "Randonnées, ateliers scientifiques, observation de la faune et de la flore",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "classe_verte_biodiversite.html",
-    "popup": "<b>Classe Verte : Découverte de la Biodiversité</b><br>Parc Naturel Régional du Vercors, 2024-05<br><a href='classe_verte_biodiversite.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Classe Verte : Découverte de la Biodiversité</b><br>Parc Naturel Régional du Vercors, 2024-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 52,
@@ -925,8 +925,8 @@
     "certification": "Certificat de compétences",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "formation_developpement_web.html",
-    "popup": "<b>Formation : Les Bases du Développement Web</b><br>Lyon (et en ligne), 2023-10<br><a href='formation_developpement_web.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Formation : Les Bases du Développement Web</b><br>Lyon (et en ligne), 2023-10<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 53,
@@ -943,8 +943,8 @@
     "objectives": "Comprendre les enjeux des énergies renouvelables",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "kit_energies_renouvelables.html",
-    "popup": "<b>Kit Pédagogique : Découverte des Énergies Renouvelables</b><br>France, 2023-03<br><a href='kit_energies_renouvelables.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Kit Pédagogique : Découverte des Énergies Renouvelables</b><br>France, 2023-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 54,
@@ -961,8 +961,8 @@
     "speakers": "Climatologues et experts en environnement",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "conference_changement_climatique.html",
-    "popup": "<b>Conférence Interactive : Les Enjeux du Changement Climatique</b><br>Bordeaux, 2024-02<br><a href='conference_changement_climatique.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Conférence Interactive : Les Enjeux du Changement Climatique</b><br>Bordeaux, 2024-02<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 55,
@@ -979,8 +979,8 @@
     "access": "Gratuit pour les établissements partenaires",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "plateforme_maths_en_ligne.html",
-    "popup": "<b>Plateforme d'Apprentissage : Maths en Ligne</b><br>France, 2022-11<br><a href='plateforme_maths_en_ligne.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Plateforme d'Apprentissage : Maths en Ligne</b><br>France, 2022-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 56,
@@ -997,8 +997,8 @@
     "partners": "Chambre des Métiers et de l'Artisanat",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "stage_metiers_artisanat.html",
-    "popup": "<b>Stage : Découverte des Métiers de l'Artisanat</b><br>Strasbourg, 2023-07<br><a href='stage_metiers_artisanat.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Stage : Découverte des Métiers de l'Artisanat</b><br>Strasbourg, 2023-07<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 57,
@@ -1014,8 +1014,8 @@
     "skills_developed": "Rédaction, travail d'équipe, gestion de projet",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "projet_journal_scolaire.html",
-    "popup": "<b>Projet Éducatif : Création d'un Journal Scolaire</b><br>Toulouse, 2023-09 à 2024-06<br><a href='projet_journal_scolaire.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Projet Éducatif : Création d'un Journal Scolaire</b><br>Toulouse, 2023-09 à 2024-06<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 58,
@@ -1032,8 +1032,8 @@
     "menu": "Macarons, éclairs au chocolat, tarte tatin",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "atelier_patisserie_francaise.html",
-    "popup": "<b>Atelier de Cuisine : Les Bases de la Pâtisserie Française</b><br>Paris, 2024-03<br><a href='atelier_patisserie_francaise.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Atelier de Cuisine : Les Bases de la Pâtisserie Française</b><br>Paris, 2024-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 59,
@@ -1047,8 +1047,8 @@
     "date": "2025-03",
     "thumbnail": "images/aligot.webp",
     "image": "images/aligot.webp",
-    "url": "project.html",
-    "popup": "<b>The Sacred Aligot of Rodez ★</b><br>Rodez, 2025-03<br><a href='project.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>The Sacred Aligot of Rodez ★</b><br>Rodez, 2025-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 60,
@@ -1065,8 +1065,8 @@
     "chefs": "5 chefs invités de différents pays",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "diner_ephemere_saveurs_monde.html",
-    "popup": "<b>Dîner Éphémère : Saveurs du Monde en 5 Plats</b><br>Lyon, 2024-05<br><a href='diner_ephemere_saveurs_monde.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Dîner Éphémère : Saveurs du Monde en 5 Plats</b><br>Lyon, 2024-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 61,
@@ -1082,8 +1082,8 @@
     "certification": "Diplôme de sommelier reconnu",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "formation_sommelier_bordeaux.html",
-    "popup": "<b>Formation : Devenir Sommelier en 6 Mois</b><br>Bordeaux, 2023-10 à 2024-03<br><a href='formation_sommelier_bordeaux.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Formation : Devenir Sommelier en 6 Mois</b><br>Bordeaux, 2023-10 à 2024-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 62,
@@ -1100,8 +1100,8 @@
     "theme": "Écologie, anti-gaspi, cuisine créative",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "livre_cuisine_zero_dechet.html",
-    "popup": "<b>Livre de Recettes : Cuisine Zéro Déchet</b><br>France, 2023-11<br><a href='livre_cuisine_zero_dechet.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Livre de Recettes : Cuisine Zéro Déchet</b><br>France, 2023-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 63,
@@ -1117,8 +1117,8 @@
     "animation": "Démonstrations culinaires et dégustations",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "marche_gourmand_toulouse.html",
-    "popup": "<b>Marché Gourmand : Rencontres avec les Producteurs</b><br>Toulouse, Tous les premiers samedis du mois (depuis 2022)<br><a href='marche_gourmand_toulouse.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Marché Gourmand : Rencontres avec les Producteurs</b><br>Toulouse, Tous les premiers samedis du mois (depuis 2022)<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 64,
@@ -1135,8 +1135,8 @@
     "public": "Débutants et cuisiniers confirmés",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "cours_cuisine_vegetale_creative.html",
-    "popup": "<b>Cours en Ligne : Cuisine Végétale Créative</b><br>France, 2023-09<br><a href='cours_cuisine_vegetale_creative.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Cours en Ligne : Cuisine Végétale Créative</b><br>France, 2023-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 65,
@@ -1152,8 +1152,8 @@
     "fromages": "20 fromages AOP français",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "nuit_fromages_aop.html",
-    "popup": "<b>Événement : La Nuit des Fromages AOP</b><br>Reims, 2024-06<br><a href='nuit_fromages_aop.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Événement : La Nuit des Fromages AOP</b><br>Reims, 2024-06<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 66,
@@ -1169,8 +1169,8 @@
     "particularity": "Produits frais et recettes familiales",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "food_truck_mediterranee.html",
-    "popup": "<b>Food Truck : Voyage Culinaire en Méditerranée</b><br>Marseille (et festivals), Depuis 2022<br><a href='food_truck_mediterranee.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Food Truck : Voyage Culinaire en Méditerranée</b><br>Marseille (et festivals), Depuis 2022<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 67,
@@ -1186,8 +1186,8 @@
     "jury": "Chefs étoilés et professionnels de la gastronomie",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "concours_meilleur_apprenti_cuisinier.html",
-    "popup": "<b>Concours : Meilleur Apprenti Cuisinier Régional</b><br>Dijon, 2024-04<br><a href='concours_meilleur_apprenti_cuisinier.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Concours : Meilleur Apprenti Cuisinier Régional</b><br>Dijon, 2024-04<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 68,
@@ -1204,8 +1204,8 @@
     "particularity": "Utilisation de fèves de cacao équitables",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "atelier_chocolat_artisanal.html",
-    "popup": "<b>Atelier : Fabrication de Chocolat Artisanal</b><br>Bayonne, 2023-12<br><a href='atelier_chocolat_artisanal.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Atelier : Fabrication de Chocolat Artisanal</b><br>Bayonne, 2023-12<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 69,
@@ -1223,8 +1223,8 @@
     "theme": "Voyage, modularité, durabilité",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "collection_urban_nomad.html",
-    "popup": "<b>Collection Capsule : Urban Nomad</b><br>France, 2024-01<br><a href='collection_urban_nomad.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Collection Capsule : Urban Nomad</b><br>France, 2024-01<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 70,
@@ -1240,8 +1240,8 @@
     "public": "Professionnels et grand public",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "defile_slow_fashion_week.html",
-    "popup": "<b>Défilé Éthique : Slow Fashion Week</b><br>Paris, 2023-10<br><a href='defile_slow_fashion_week.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Défilé Éthique : Slow Fashion Week</b><br>Paris, 2023-10<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 71,
@@ -1258,8 +1258,8 @@
     "materials": "Vêtements à customiser, fils, teintures végétales",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "atelier_customisation_vetements.html",
-    "popup": "<b>Atelier : Customisation de Vêtements</b><br>Lyon, 2024-03<br><a href='atelier_customisation_vetements.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Atelier : Customisation de Vêtements</b><br>Lyon, 2024-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 72,
@@ -1276,8 +1276,8 @@
     "collection": "Disponible en ligne et en pop-up stores",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "marque_re_vibe.html",
-    "popup": "<b>Marque Émergente : Re-Vibe</b><br>France, Lancée en 2023<br><a href='marque_re_vibe.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Marque Émergente : Re-Vibe</b><br>France, Lancée en 2023<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 73,
@@ -1293,8 +1293,8 @@
     "highlights": "Robes des années 20 aux créations contemporaines",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "exposition_100_ans_mode_feminine.html",
-    "popup": "<b>Exposition : 100 Ans de Mode Féminine</b><br>Musée des Arts Décoratifs, Paris, 2023-11 à 2024-03<br><a href='exposition_100_ans_mode_feminine.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Exposition : 100 Ans de Mode Féminine</b><br>Musée des Arts Décoratifs, Paris, 2023-11 à 2024-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 74,
@@ -1311,8 +1311,8 @@
     "limited_edition": "Série limitée de 500 exemplaires",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "collaboration_sport_elegance.html",
-    "popup": "<b>Collaboration : Sport & Élégance</b><br>France, 2023-09<br><a href='collaboration_sport_elegance.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Collaboration : Sport & Élégance</b><br>France, 2023-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 75,
@@ -1328,8 +1328,8 @@
     "content": "Reportages, croquis, techniques ancestrales",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "livre_secrets_ateliers_couture.html",
-    "popup": "<b>Livre : Les Secrets des Ateliers de Couture</b><br>France, 2023-12<br><a href='livre_secrets_ateliers_couture.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Livre : Les Secrets des Ateliers de Couture</b><br>France, 2023-12<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 76,
@@ -1345,8 +1345,8 @@
     "animation": "Démonstrations de styling, DJ set, expositions",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "nuit_des_stylistes.html",
-    "popup": "<b>Événement : La Nuit des Stylistes</b><br>Marseille, 2024-06<br><a href='nuit_des_stylistes.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Événement : La Nuit des Stylistes</b><br>Marseille, 2024-06<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 77,
@@ -1363,8 +1363,8 @@
     "values": "Économie circulaire, réduction du gaspillage",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "plateforme_location_robes_soiree.html",
-    "popup": "<b>Plateforme : Location de Robes de Soirée</b><br>France, Lancée en 2022<br><a href='plateforme_location_robes_soiree.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Plateforme : Location de Robes de Soirée</b><br>France, Lancée en 2022<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 78,
@@ -1381,8 +1381,8 @@
     "collection": "Vêtements faciles à enfiler, ajustables et élégants",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "projet_mode_handicap.html",
-    "popup": "<b>Projet : Mode et Handicap</b><br>France, 2023-05<br><a href='projet_mode_handicap.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Projet : Mode et Handicap</b><br>France, 2023-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 79,
@@ -1399,8 +1399,8 @@
     "public": "Adultes et adolescents",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "app_suivi_mental.html",
-    "popup": "<b>Application : Suivi Mental au Quotidien</b><br>France, 2023-09<br><a href='app_suivi_mental.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Application : Suivi Mental au Quotidien</b><br>France, 2023-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 80,
@@ -1416,8 +1416,8 @@
     "animator": "Nutritionniste et micro-nutritionniste",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "atelier_alimentation_sante_intestinale.html",
-    "popup": "<b>Atelier : Alimentation et Santé Intestinale</b><br>Bordeaux, 2024-02<br><a href='atelier_alimentation_sante_intestinale.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Atelier : Alimentation et Santé Intestinale</b><br>Bordeaux, 2024-02<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 81,
@@ -1433,8 +1433,8 @@
     "partners": "Hôpitaux et kinésithérapeutes spécialisés",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "programme_reeducation_cardiaque.html",
-    "popup": "<b>Programme : Rééducation Cardiaque en Ligne</b><br>France, 2023-11<br><a href='programme_reeducation_cardiaque.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Programme : Rééducation Cardiaque en Ligne</b><br>France, 2023-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 82,
@@ -1450,8 +1450,8 @@
     "certification": "Marquage CE, compatible avec les dossiers médicaux partagés",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "tensiometre_connecte.html",
-    "popup": "<b>Dispositif Médical : Tensiomètre Connecté</b><br>France, 2023-05<br><a href='tensiometre_connecte.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Dispositif Médical : Tensiomètre Connecté</b><br>France, 2023-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 83,
@@ -1466,8 +1466,8 @@
     "partners": "Associations de patients, centres hospitaliers",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "campagne_prevention_diabete.html",
-    "popup": "<b>Campagne : Prévention du Diabète de Type 2</b><br>France (en présentiel et en ligne), 2024-03<br><a href='campagne_prevention_diabete.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Campagne : Prévention du Diabète de Type 2</b><br>France (en présentiel et en ligne), 2024-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 84,
@@ -1483,8 +1483,8 @@
     "content": "Techniques pas à pas, schémas anatomiques, routines adaptées",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "livre_guide_auto_massage.html",
-    "popup": "<b>Livre : Le Guide de l'Auto-Massage</b><br>France, 2023-10<br><a href='livre_guide_auto_massage.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Livre : Le Guide de l'Auto-Massage</b><br>France, 2023-10<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 85,
@@ -1500,8 +1500,8 @@
     "access": "Avec ou sans mutuelle, remboursable sous conditions",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "plateforme_telemedecine.html",
-    "popup": "<b>Plateforme : Télémédecine pour Tous</b><br>France, Lancée en 2022<br><a href='plateforme_telemedecine.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Plateforme : Télémédecine pour Tous</b><br>France, Lancée en 2022<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 86,
@@ -1517,8 +1517,8 @@
     "modules": "Ateliers, webinaires, ressources en ligne",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "projet_sante_mentale_entreprise.html",
-    "popup": "<b>Projet : Santé Mentale en Entreprise</b><br>France, 2023-07<br><a href='projet_sante_mentale_entreprise.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Projet : Santé Mentale en Entreprise</b><br>France, 2023-07<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 87,
@@ -1534,8 +1534,8 @@
     "partners": "Centres du sommeil, associations de patients",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "journee_du_sommeil.html",
-    "popup": "<b>Événement : Journée du Sommeil</b><br>Paris, 2024-03<br><a href='journee_du_sommeil.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Événement : Journée du Sommeil</b><br>Paris, 2024-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 88,
@@ -1551,8 +1551,8 @@
     "autonomy": "Jusqu'à 7 jours",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "patch_surveillance_constantes_vitales.html",
-    "popup": "<b>Innovation : Patch de Surveillance des Constantes Vitales</b><br>France, 2023-12<br><a href='patch_surveillance_constantes_vitales.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Innovation : Patch de Surveillance des Constantes Vitales</b><br>France, 2023-12<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 89,
@@ -1569,8 +1569,8 @@
     "objectives": "Modéliser les changements des courants marins et leur impact sur la biodiversité",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "projet_ia_climat.html",
-    "popup": "<b>Projet de Recherche : Intelligence Artificielle et Climat</b><br>France, 2023-2025<br><a href='projet_ia_climat.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Projet de Recherche : Intelligence Artificielle et Climat</b><br>France, 2023-2025<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 90,
@@ -1586,8 +1586,8 @@
     "highlights": "Simulateur de voyage spatial, maquettes de télescopes, conférences",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "exposition_mysteres_univers.html",
-    "popup": "<b>Exposition : Les Mystères de l'Univers</b><br>Cité des Sciences, Paris, 2023-11 à 2024-05<br><a href='exposition_mysteres_univers.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Exposition : Les Mystères de l'Univers</b><br>Cité des Sciences, Paris, 2023-11 à 2024-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 91,
@@ -1601,8 +1601,8 @@
     "date": "2008-11",
     "thumbnail": "images/pexels/pexels_07.webp",
     "image": "images/pexels/pexels_07.webp",
-    "url": "featured.html",
-    "popup": "<b>Science Innovation Lab ★</b><br>Rennes, 2008-11<br><a href='featured.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Science Innovation Lab ★</b><br>Rennes, 2008-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 92,
@@ -1618,8 +1618,8 @@
     "materials": "Fruits, kits d'extraction d'ADN, microscopes",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "atelier_decouverte_genetique.html",
-    "popup": "<b>Atelier : Découverte de la Génétique</b><br>Lyon, 2024-03<br><a href='atelier_decouverte_genetique.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Atelier : Découverte de la Génétique</b><br>Lyon, 2024-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 93,
@@ -1635,8 +1635,8 @@
     "themes": "Stem cells, bio-impression, thérapies géniques",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "conference_medecine_regenerative.html",
-    "popup": "<b>Conférence : Les Avancées en Médecine Régénérative</b><br>Strasbourg, 2024-04<br><a href='conference_medecine_regenerative.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Conférence : Les Avancées en Médecine Régénérative</b><br>Strasbourg, 2024-04<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 94,
@@ -1652,8 +1652,8 @@
     "content": "Illustrations, expériences de pensée, applications technologiques",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "livre_physique_quantique.html",
-    "popup": "<b>Livre : La Physique Quantique pour Tous</b><br>France, 2023-10<br><a href='livre_physique_quantique.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Livre : La Physique Quantique pour Tous</b><br>France, 2023-10<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 95,
@@ -1669,8 +1669,8 @@
     "tools": "Application mobile, guides d'observation, webinaires",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "projet_observation_etoiles.html",
-    "popup": "<b>Projet Citoyen : Observation des Étoiles</b><br>France, Lancé en 2022<br><a href='projet_observation_etoiles.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Projet Citoyen : Observation des Étoiles</b><br>France, Lancé en 2022<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 96,
@@ -1687,8 +1687,8 @@
     "applications": "Thérapies ciblées, diagnostic précoce",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "innovation_robotique_moleculaire.html",
-    "popup": "<b>Innovation : Robotique Moléculaire</b><br>France, 2023-06<br><a href='innovation_robotique_moleculaire.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Innovation : Robotique Moléculaire</b><br>France, 2023-06<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 97,
@@ -1705,8 +1705,8 @@
     "certification": "Attestation de suivi",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "mooc_chimie_verte.html",
-    "popup": "<b>MOOC : Les Fondamentaux de la Chimie Verte</b><br>France, 2023-09<br><a href='mooc_chimie_verte.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>MOOC : Les Fondamentaux de la Chimie Verte</b><br>France, 2023-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 98,
@@ -1722,8 +1722,8 @@
     "activities": "Expériences interactives, rencontres avec des scientifiques",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "nuit_des_chercheurs.html",
-    "popup": "<b>Événement : La Nuit des Chercheurs</b><br>Montpellier, 2024-09<br><a href='nuit_des_chercheurs.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Événement : La Nuit des Chercheurs</b><br>Montpellier, 2024-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 99,
@@ -1739,8 +1739,8 @@
     "animation": "DJ set, démonstrations de dunk, food trucks",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "tournoi_streetball_urban_challenge.html",
-    "popup": "<b>Tournoi de Streetball : Urban Challenge</b><br>Paris (Bercy), 2024-06<br><a href='tournoi_streetball_urban_challenge.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Tournoi de Streetball : Urban Challenge</b><br>Paris (Bercy), 2024-06<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 100,
@@ -1757,8 +1757,8 @@
     "material": "Planches, combinaisons, assurance incluse",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "stage_surf_debutants.html",
-    "popup": "<b>Stage de Surf pour Débutants</b><br>Biarritz, 2024-07<br><a href='stage_surf_debutants.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Stage de Surf pour Débutants</b><br>Biarritz, 2024-07<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 101,
@@ -1775,8 +1775,8 @@
     "partners": "UNICEF, marques sportives locales",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "course_solidaire_10km.html",
-    "popup": "<b>Course Solidaire : 10 km pour l'Éducation</b><br>Lyon, 2024-05<br><a href='course_solidaire_10km.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Course Solidaire : 10 km pour l'Éducation</b><br>Lyon, 2024-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 102,
@@ -1792,8 +1792,8 @@
     "equipment": "Mur d'escalade de 15 mètres, prêt de baudriers",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "ligue_escalade_salle.html",
-    "popup": "<b>Ligue d'Escalade en Salle</b><br>Grenoble, 2023-2024 (saison en cours)<br><a href='ligue_escalade_salle.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Ligue d'Escalade en Salle</b><br>Grenoble, 2023-2024 (saison en cours)<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 103,
@@ -1809,8 +1809,8 @@
     "material": "Tapis de yoga fournis, tenue confortable recommandée",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "atelier_yoga_pleine_nature.html",
-    "popup": "<b>Atelier : Yoga et Méditation en Pleine Nature</b><br>Fontainebleau, 2024-04 à 2024-10 (tous les samedis)<br><a href='atelier_yoga_pleine_nature.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Atelier : Yoga et Méditation en Pleine Nature</b><br>Fontainebleau, 2024-04 à 2024-10 (tous les samedis)<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 104,
@@ -1826,8 +1826,8 @@
     "activities": "Compétitions, ateliers, concerts, food trucks",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "festival_sports_urbains.html",
-    "popup": "<b>Événement : Festival des Sports Urbains</b><br>Marseille, 2024-09<br><a href='festival_sports_urbains.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Événement : Festival des Sports Urbains</b><br>Marseille, 2024-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 105,
@@ -1843,8 +1843,8 @@
     "public": "Enfants et adultes en situation de handicap",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "programme_sport_handicap.html",
-    "popup": "<b>Programme : Sport et Handicap</b><br>Toulouse, 2023-2024 (toute l'année)<br><a href='programme_sport_handicap.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Programme : Sport et Handicap</b><br>Toulouse, 2023-2024 (toute l'année)<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 106,
@@ -1860,8 +1860,8 @@
     "features": "Plans d'entraînement, suivi des performances, conseils nutritionnels",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "app_suivi_entrainement.html",
-    "popup": "<b>Application : Suivi d'Entraînement Personnalisé</b><br>France, Lancée en 2023<br><a href='app_suivi_entrainement.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Application : Suivi d'Entraînement Personnalisé</b><br>France, Lancée en 2023<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 107,
@@ -1877,8 +1877,8 @@
     "participants": "1 500 coureurs attendus",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "trail_des_volcans.html",
-    "popup": "<b>Compétition : Trail des Volcans</b><br>Auvergne, 2024-06<br><a href='trail_des_volcans.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Compétition : Trail des Volcans</b><br>Auvergne, 2024-06<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 108,
@@ -1894,8 +1894,8 @@
     "partners": "Associations écologiques, clubs sportifs locaux",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "projet_sport_environnement.html",
-    "popup": "<b>Projet : Sport et Environnement</b><br>Bretagne, 2024 (tous les mois)<br><a href='projet_sport_environnement.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Projet : Sport et Environnement</b><br>Bretagne, 2024 (tous les mois)<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 109,
@@ -1911,8 +1911,8 @@
     "themes": "Automatisation, nouvelles compétences, éthique de l'IA",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "conference_ia_metiers_demain.html",
-    "popup": "<b>Conférence : L'Impact de l'IA sur les Métiers de Demain</b><br>Station F, Paris, 2024-11<br><a href='conference_ia_metiers_demain.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Conférence : L'Impact de l'IA sur les Métiers de Demain</b><br>Station F, Paris, 2024-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 110,
@@ -1928,8 +1928,8 @@
     "public": "Développeurs, entrepreneurs et curieux",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "atelier_initiation_blockchain.html",
-    "popup": "<b>Atelier : Initiation à la Blockchain</b><br>Lyon (et en ligne), 2024-05<br><a href='atelier_initiation_blockchain.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Atelier : Initiation à la Blockchain</b><br>Lyon (et en ligne), 2024-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 111,
@@ -1945,8 +1945,8 @@
     "features": "Modularité, sécurité renforcée, documentation complète",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "projet_framework_iot.html",
-    "popup": "<b>Projet Open Source : Framework pour l'IoT</b><br>France, Lancé en 2023<br><a href='projet_framework_iot.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Projet Open Source : Framework pour l'IoT</b><br>France, Lancé en 2023<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 112,
@@ -1962,8 +1962,8 @@
     "prizes": "Financement et accompagnement pour les projets gagnants",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "hackathon_ville_intelligente.html",
-    "popup": "<b>Hackathon : Innovations pour la Ville Intelligente</b><br>Bordeaux, 2024-03<br><a href='hackathon_ville_intelligente.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Hackathon : Innovations pour la Ville Intelligente</b><br>Bordeaux, 2024-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 113,
@@ -1979,8 +1979,8 @@
     "content": "Bonnes pratiques, études de cas, outils et ressources",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "livre_developpement_durable_tech.html",
-    "popup": "<b>Livre : Le Guide du Développement Durable en Tech</b><br>France, 2023-12<br><a href='livre_developpement_durable_tech.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Livre : Le Guide du Développement Durable en Tech</b><br>France, 2023-12<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 114,
@@ -1996,8 +1996,8 @@
     "sectors": "Automobile, agroalimentaire, logistique",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "startup_robotique_collaborative.html",
-    "popup": "<b>Start-up : Robotique Collaborative pour l'Industrie</b><br>France, Fondée en 2022<br><a href='startup_robotique_collaborative.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Start-up : Robotique Collaborative pour l'Industrie</b><br>France, Fondée en 2022<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 115,
@@ -2013,8 +2013,8 @@
     "highlights": "Démonstrations, conférences, networking",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "salon_nouvelles_technologies_energetiques.html",
-    "popup": "<b>Événement : Salon des Nouvelles Technologies Énergétiques</b><br>Paris, Porte de Versailles, 2024-06<br><a href='salon_nouvelles_technologies_energetiques.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Événement : Salon des Nouvelles Technologies Énergétiques</b><br>Paris, Porte de Versailles, 2024-06<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 116,
@@ -2030,8 +2030,8 @@
     "features": "Cours interactifs, projets créatifs, suivi des progrès",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "plateforme_code_enfants.html",
-    "popup": "<b>Plateforme : Apprentissage du Code pour les Enfants</b><br>France, Lancée en 2021<br><a href='plateforme_code_enfants.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Plateforme : Apprentissage du Code pour les Enfants</b><br>France, Lancée en 2021<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 117,
@@ -2047,8 +2047,8 @@
     "applications": "Gaming, formation, visites virtuelles",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "casque_realite_virtuelle_sans_fil.html",
-    "popup": "<b>Innovation : Casque de Réalité Virtuelle sans Fil</b><br>France, 2024-01<br><a href='casque_realite_virtuelle_sans_fil.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Innovation : Casque de Réalité Virtuelle sans Fil</b><br>France, 2024-01<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 118,
@@ -2064,8 +2064,8 @@
     "particularités": "Recharge par induction aux arrêts, toits végétalisés",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "ligne_tramway_eco_responsable.html",
-    "popup": "<b>Ligne de Tramway Éco-responsable</b><br>Nantes, 2024-06<br><a href='ligne_tramway_eco_responsable.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Ligne de Tramway Éco-responsable</b><br>Nantes, 2024-06<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 119,
@@ -2081,8 +2081,8 @@
     "particularités": "Batteries interchangeables, assistance électrique intelligente",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "velos_libre_service_electriques.html",
-    "popup": "<b>Service de Vélos en Libre-Service Électriques</b><br>Lyon, Lancé en 2023<br><a href='velos_libre_service_electriques.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Service de Vélos en Libre-Service Électriques</b><br>Lyon, Lancé en 2023<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 120,
@@ -2096,8 +2096,8 @@
     "date": "2021-03",
     "thumbnail": "images/pexels/pexels_06.webp",
     "image": "images/pexels/pexels_06.webp",
-    "url": "featured.html",
-    "popup": "<b>Vintage Car Exhibition ★</b><br>Nantes, 2021-03<br><a href='featured.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Vintage Car Exhibition ★</b><br>Nantes, 2021-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 121,
@@ -2113,8 +2113,8 @@
     "technologie": "Capteurs LiDAR, IA pour la gestion du trafic",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "navette_autonome_urbaine.html",
-    "popup": "<b>Navette Autonome pour les Zones Urbaines</b><br>Toulouse, 2024-09<br><a href='navette_autonome_urbaine.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Navette Autonome pour les Zones Urbaines</b><br>Toulouse, 2024-09<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 122,
@@ -2129,8 +2129,8 @@
     "services": "Consignes connectées, bornes de recharge, espaces de coworking",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "gare_multimodale_intelligente.html",
-    "popup": "<b>Gare Multimodale Intelligente</b><br>Strasbourg, 2023-12<br><a href='gare_multimodale_intelligente.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Gare Multimodale Intelligente</b><br>Strasbourg, 2023-12<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 123,
@@ -2146,8 +2146,8 @@
     "partenaires": "Vinci Autoroutes, constructeurs automobiles",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "autoroute_vehicules_electriques.html",
-    "popup": "<b>Autoroute pour Véhicules Électriques</b><br>Entre Paris et Orléans, 2025 (prévu)<br><a href='autoroute_vehicules_electriques.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Autoroute pour Véhicules Électriques</b><br>Entre Paris et Orléans, 2025 (prévu)<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 124,
@@ -2163,8 +2163,8 @@
     "partenaires": "SNCF, Alstom",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "train_hydrogene.html",
-    "popup": "<b>Projet de Train à Hydrogène</b><br>Occitanie, 2024-05<br><a href='train_hydrogene.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Projet de Train à Hydrogène</b><br>Occitanie, 2024-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 125,
@@ -2180,8 +2180,8 @@
     "fonctionnalités": "Paiement intégré, système de notation, trajets suggérés",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "app_covoiturage_dynamique.html",
-    "popup": "<b>Application de Covoiturage Dynamique</b><br>France, Lancée en 2022<br><a href='app_covoiturage_dynamique.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Application de Covoiturage Dynamique</b><br>France, Lancée en 2022<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 126,
@@ -2197,8 +2197,8 @@
     "production_électrique": "280 MWh par an",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "piste_cyclable_solaire.html",
-    "popup": "<b>Piste Cyclable Solaire</b><br>Normandie, 2023-07<br><a href='piste_cyclable_solaire.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Piste Cyclable Solaire</b><br>Normandie, 2023-07<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 127,
@@ -2214,8 +2214,8 @@
     "technologie": "Système de gestion logistique par IA",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "port_fluvial_autonome.html",
-    "popup": "<b>Port Fluvial Autonome</b><br>Le Havre, 2024-11<br><a href='port_fluvial_autonome.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Port Fluvial Autonome</b><br>Le Havre, 2024-11<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 128,
@@ -2231,8 +2231,8 @@
     "partenaires": "La Poste, start-ups locales",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "livraison_drone.html",
-    "popup": "<b>Service de Livraison par Drone</b><br>Auvergne, 2024-03<br><a href='livraison_drone.html'>Voir le projet</a>"
+    "url": "shopping-mall.html",
+    "popup": "<b>Service de Livraison par Drone</b><br>Auvergne, 2024-03<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 129,
@@ -2246,9 +2246,9 @@
     "date": "2025-03-13",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "salon_mondial_tourisme.html",
+    "url": "shopping-mall.html",
     "type": "Exposition/Événement",
-    "popup": "<b>Salon Mondial du Tourisme</b><br>Paris Expo Porte de Versailles, 2025-03-13<br><a href='salon_mondial_tourisme.html'>Voir le projet</a>"
+    "popup": "<b>Salon Mondial du Tourisme</b><br>Paris Expo Porte de Versailles, 2025-03-13<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 130,
@@ -2262,9 +2262,9 @@
     "date": "Permanent",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "agence_evasion_totale.html",
+    "url": "shopping-mall.html",
     "type": "Agence de Voyage",
-    "popup": "<b>Agence Évasion Totale</b><br>Lyon, 6ème Arrondissement, Permanent<br><a href='agence_evasion_totale.html'>Voir le projet</a>"
+    "popup": "<b>Agence Évasion Totale</b><br>Lyon, 6ème Arrondissement, Permanent<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 131,
@@ -2278,9 +2278,9 @@
     "date": "2025-05-22",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "recits_tour_du_monde.html",
+    "url": "shopping-mall.html",
     "type": "Conférence/Rencontre",
-    "popup": "<b>Rencontre : Récits de Tour du Monde</b><br>Médiathèque de Bordeaux, 2025-05-22<br><a href='recits_tour_du_monde.html'>Voir le projet</a>"
+    "popup": "<b>Rencontre : Récits de Tour du Monde</b><br>Médiathèque de Bordeaux, 2025-05-22<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 132,
@@ -2294,9 +2294,9 @@
     "date": "2025-09-05",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "festival_film_voyage.html",
+    "url": "shopping-mall.html",
     "type": "Événement culturel",
-    "popup": "<b>Festival International du Film de Voyage et d'Aventure</b><br>La Rochelle, Cinéma CGR, 2025-09-05<br><a href='festival_film_voyage.html'>Voir le projet</a>"
+    "popup": "<b>Festival International du Film de Voyage et d'Aventure</b><br>La Rochelle, Cinéma CGR, 2025-09-05<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 133,
@@ -2310,9 +2310,9 @@
     "date": "Permanent",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "voyages_solidaires_ong.html",
+    "url": "shopping-mall.html",
     "type": "Association/ONG",
-    "popup": "<b>Voyages Solidaires - ONG</b><br>Nantes, Centre-Ville, Permanent<br><a href='voyages_solidaires_ong.html'>Voir le projet</a>"
+    "popup": "<b>Voyages Solidaires - ONG</b><br>Nantes, Centre-Ville, Permanent<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 134,
@@ -2326,9 +2326,9 @@
     "date": "2025-07-10",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "atelier_photo_voyage.html",
+    "url": "shopping-mall.html",
     "type": "Formation/Atelier",
-    "popup": "<b>Atelier Photographie de Voyage</b><br>Lille, Espace Création, 2025-07-10<br><a href='atelier_photo_voyage.html'>Voir le projet</a>"
+    "popup": "<b>Atelier Photographie de Voyage</b><br>Lille, Espace Création, 2025-07-10<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 135,
@@ -2342,9 +2342,9 @@
     "date": "Permanent",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "librairie_carnet_adresses.html",
+    "url": "shopping-mall.html",
     "type": "Commerce spécialisé",
-    "popup": "<b>Librairie Le Carnet d'Adresses</b><br>Toulouse, Quartier Saint-Étienne, Permanent<br><a href='librairie_carnet_adresses.html'>Voir le projet</a>"
+    "popup": "<b>Librairie Le Carnet d'Adresses</b><br>Toulouse, Quartier Saint-Étienne, Permanent<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 136,
@@ -2358,9 +2358,9 @@
     "date": "2025-04-01",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "expo_explorateurs_oublies.html",
+    "url": "shopping-mall.html",
     "type": "Musée/Exposition",
-    "popup": "<b>Exposition : Les Explorateurs Oubliés</b><br>Musée des Confluences, Lyon, 2025-04-01<br><a href='expo_explorateurs_oublies.html'>Voir le projet</a>"
+    "popup": "<b>Exposition : Les Explorateurs Oubliés</b><br>Musée des Confluences, Lyon, 2025-04-01<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 137,
@@ -2374,9 +2374,9 @@
     "date": "2025-06-15",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "cine_debat_transsiberien.html",
+    "url": "shopping-mall.html",
     "type": "Événement/Projection",
-    "popup": "<b>Ciné-Débat : Le Voyage en Train Transsibérien</b><br>Strasbourg, Cinéma Odyssée, 2025-06-15<br><a href='cine_debat_transsiberien.html'>Voir le projet</a>"
+    "popup": "<b>Ciné-Débat : Le Voyage en Train Transsibérien</b><br>Strasbourg, Cinéma Odyssée, 2025-06-15<br><a href='shopping-mall.html'>Voir le projet</a>"
   },
   {
     "id": 138,
@@ -2390,8 +2390,8 @@
     "date": "Permanent",
     "thumbnail": "images/placeholder1.jpg",
     "image": "images/placeholder1.jpg",
-    "url": "tours_randonnees_vertes.html",
+    "url": "shopping-mall.html",
     "type": "Tours Opérateur",
-    "popup": "<b>Tours Opérateur Randonnées Vertes</b><br>Rennes, Proche Gare, Permanent<br><a href='tours_randonnees_vertes.html'>Voir le projet</a>"
+    "popup": "<b>Tours Opérateur Randonnées Vertes</b><br>Rennes, Proche Gare, Permanent<br><a href='shopping-mall.html'>Voir le projet</a>"
   }
 ]
