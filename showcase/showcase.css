@@ -44,7 +44,6 @@
   text-align: left;
 }
 
-
 /* --------------------------------------- */
 /*      Layouts styles                   */
 /* --------------------------------------- */
@@ -97,10 +96,10 @@
   /* When the layout stacks (mobile / narrow), let the scroll content size naturally */
   @media (max-width: 48rem) {
     /* On narrow viewports we want the right panel to behave like the image height:
-     - The JS (showcase.js) sets the .scroll-container height to match the image height
-       so the right box matches the image height and its inner `.scroll-content`
-       becomes scrollable (height: 100%). This avoids expanding the whole page while
-       keeping a contained scrolling area on mobile.
+    - The JS (showcase.js) sets the .scroll-container height to match the image height
+    so the right box matches the image height and its inner `.scroll-content`
+    becomes scrollable (height: 100%). This avoids expanding the whole page while
+    keeping a contained scrolling area on mobile.
      - CSS provides reasonable fallbacks and min-heights in case JS is disabled. */
     min-height: 220px;
     overflow: visible;
@@ -193,9 +192,7 @@
 .scroll-container {
   --card-border-radius: 20px;
 
-  /* --thumb-color: rgb(154, 230, 0); */
   --thumb-color: var(--accent-color);
-  /* --thumb-color-active: rgb(124, 207, 0); */
   --thumb-color-active: var(--primary-color-dark);
   --thumb-width: 4;
   --thumb-width-active: 6;
@@ -208,7 +205,6 @@
   position: relative;
   width: 100%;
   /* contain: size; removed to avoid collapse on small screens — applied only on desktop via media query below */
-  /* margin: 3rem auto; */
   border: 1px solid var(--border-color);
   border-radius: var(--card-border-radius);
   overflow: hidden;
@@ -277,5 +273,3 @@
     cursor: grabbing;
   }
 }
-
-/* Strong mobile overrides removed after debugging — handled with cleaner rules above */

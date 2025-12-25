@@ -153,9 +153,8 @@ function initCurvedScrollbar(container) {
 }
 
 /* Sync .scroll-container height with the image height on small screens (mobile UX)
-   - On mobile (<768px) set the right panel height to match the image so the panel
-     becomes a scrollable box whose height equals the image's height.
-   - On desktop we remove the inline height so the two-column layout behaves as before. */
+  - On mobile (<768px) set the right panel height to match the image so the panel becomes a scrollable box whose height equals the image's height.
+  - On desktop we remove the inline height so the two-column layout behaves as before. */
 function syncScrollContainerHeights() {
   const isMobile = window.innerWidth < 768;
   document
@@ -175,10 +174,10 @@ function syncScrollContainerHeights() {
         content.style.overflowY = "auto";
       } else {
         // remove inline styles so desktop css + grid can manage heights
-        container.style.height = "";
-        container.style.overflow = "";
-        content.style.height = "";
-        content.style.overflowY = "";
+        // container.style.height = "";
+        // container.style.overflow = "";
+        // content.style.height = "";
+        // content.style.overflowY = "";
       }
     });
 

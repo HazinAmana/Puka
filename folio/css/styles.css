@@ -343,7 +343,7 @@ h3 {
 
 p {
   font-size: 1rem;
-  margin-bottom: 1rem;
+  margin: 1rem 0;
   color: light-dark(var(--grey-700), var(--grey-300));
   max-width: 80ch;
   text-wrap: pretty;
@@ -360,6 +360,10 @@ li {
 a {
   text-decoration: none;
   color: inherit;
+}
+
+a.hover {
+  color: var(--accent-color);
 }
 
 img {
@@ -444,6 +448,11 @@ ul.boiteLiens li::before {
 
 ul.boiteLiens li a:hover {
   text-decoration: underline;
+}
+
+ul.dots li {
+  list-style: inside;
+  padding: 0.2rem;
 }
 
 /* ********** SHARED COMPONENTS ********** */
