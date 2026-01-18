@@ -7,6 +7,12 @@
   /* background-color: #f1f1f1; */
 }
 
+@media (max-width: 768px) {
+  .progressHeader {
+    top: 39px;
+  }
+}
+
 /* The progress container (grey background) */
 .progress-container {
   width: 100%;
